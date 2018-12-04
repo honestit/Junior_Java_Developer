@@ -127,7 +127,7 @@ najbardziej atrakcyjne, najciekawsze i na tym buduj swój potencjał.
 |Potrafisz programować, ale chcesz lepiej poznać zasady projektowania i rozpocząć przygodę ze wzorcami|[JournalDev Design Patterns](https://www.journaldev.com/1827/java-design-patterns-example-tutorial)|@honestit|
 |Podstawowa grupa wzorców to dla Ciebie już za mało i chcesz wejść naprawdę głęboko i szeroko w temat?|[Java Design Pattersn](https://github.com/iluwatar/java-design-patterns)|@honestit|
 |Korzystasz z framework'ów typu Hibernate lub Spring/JEE i chce je zrozumieć?| | |
-|- Chcesz poznać źródło wszystkiego?[Enterprise Patterns Catalog](https://martinfowler.com/eaaCatalog/)|@honestit|
+|- Chcesz poznać źródło wszystkiego?|[Enterprise Patterns Catalog](https://martinfowler.com/eaaCatalog/)|@honestit|
 |- Interesuje Cię po co jest warstwa serwisów?|[Service Layer](https://martinfowler.com/eaaCatalog/serviceLayer.html)|@honestit|
 |- Obiekty transferowe wydają Ci się tylko przepisywaniem kodu?|[Data Transfer Object](https://martinfowler.com/eaaCatalog/dataTransferObject.html)|@honestit|
 |- Zastanawiasz się o co chodzi z tymi transakcjami w serwisach?|[Transaction Script](https://martinfowler.com/eaaCatalog/transactionScript.html)|@honestit|
