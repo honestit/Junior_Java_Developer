@@ -83,7 +83,8 @@ będą przydatne i wartościowe:
 |Czy masz trudności z formułowaniem algorytmów i rozwiązywaniem zadań programistycznych?|[_Myśl w języku Java. Nauka programowania_](https://helion.pl/ksiazki/mysl-w-jezyku-java-nauka-programowania-allen-b-downey-chris-mayfield,mysjav.htm#format/d), Allen B. Downey, Chris Mayfield|@honestit|
 |Czy potrzebujesz poznać bardziej zaawansowane zagadnienia i dowiedzieć się JAK należy języka Java używać?|[_Java. Efektywne programowanie. Wydanie III_](https://helion.pl/ksiazki/java-efektywne-programowanie-wydanie-iii-joshua-bloch,javep3.htm#format/d), Joshua Bloch||@honestit|
 |Chcesz zmierzyć się z różnego rodzaju łamigłowkami z pomocą języka Java?|[_Java Puzzlers_](http://www.javapuzzlers.com/), Joshua Bloch, Neal Gafter|@honestit|
-|Rozumiesz język Java i chcesz poznać szerszy obraz tego co przed Tobą?|[_The Well Grounded Java Developer_](https://www.manning.com/books/the-well-grounded-java-developer), Benjamin J. Evans, Martijn Verburg|@honestit| 
+|Rozumiesz język Java i chcesz poznać szerszy obraz tego co przed Tobą?|[_The Well Grounded Java Developer_](https://www.manning.com/books/the-well-grounded-java-developer), Benjamin J. Evans, Martijn Verburg|@honestit|
+|Potrzebujesz raz jeszcze zrozumieć Spring MVC?|[Spring MVC. Przewodnik dla początkujących](), Amuthan G.|@honestit|
 
 ### Zadania i tutoriale
 
