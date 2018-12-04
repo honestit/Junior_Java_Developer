@@ -78,12 +78,12 @@ będą przydatne i wartościowe:
 
 |Pytanie|Materiał|Autor propozycji|
 |:------|:-------|:--------------:|
-|Czy potrzebujesz jeszcze raz zrozumieć pewne podstawowe zagadnienia z języka Java?|[_JAVA. Programowanie praktyczne od podstaw_](https://ksiegarnia.pwn.pl/JAVA.-Programowanie-praktyczne-od-podstaw,216634685,p.html), Krzysztof Barteczko|@honestit|
-|Czy potrzebujesz zrozumieć zagadnienia zaawansowane język Java?|[_JAVA. Uniwersalne techniki programowania_](https://ksiegarnia.pwn.pl/Java.-Uniwersalne-techniki-programowania,114622614,p.html), Krzysztof Barteczko|@honestit|
-|Czy masz trudności z formułowaniem algorytmów i rozwiązywaniem zadań programistycznych?|[_Myśl w języku Java. Nauka programowania_](https://helion.pl/ksiazki/mysl-w-jezyku-java-nauka-programowania-allen-b-downey-chris-mayfield,mysjav.htm#format/d), Allen B. Downey, Chris Mayfield|@honestit|
-|Czy potrzebujesz poznać bardziej zaawansowane zagadnienia i dowiedzieć się JAK należy języka Java używać?|[_Java. Efektywne programowanie. Wydanie III_](https://helion.pl/ksiazki/java-efektywne-programowanie-wydanie-iii-joshua-bloch,javep3.htm#format/d), Joshua Bloch||@honestit|
-|Chcesz zmierzyć się z różnego rodzaju łamigłowkami z pomocą języka Java?|[_Java Puzzlers_](http://www.javapuzzlers.com/), Joshua Bloch, Neal Gafter|@honestit|
-|Rozumiesz język Java i chcesz poznać szerszy obraz tego co przed Tobą?|[_The Well Grounded Java Developer_](https://www.manning.com/books/the-well-grounded-java-developer), Benjamin J. Evans, Martijn Verburg|@honestit| 
+|Czy potrzebujesz jeszcze raz zrozumieć pewne podstawowe zagadnienia z języka Java?|[_JAVA. Programowanie praktyczne od podstaw_](https://ksiegarnia.pwn.pl/JAVA.-Programowanie-praktyczne-od-podstaw,216634685,p.html), Krzysztof Barteczko|[honestit](https://github.com/honestit)|
+|Czy potrzebujesz zrozumieć zagadnienia zaawansowane język Java?|[_JAVA. Uniwersalne techniki programowania_](https://ksiegarnia.pwn.pl/Java.-Uniwersalne-techniki-programowania,114622614,p.html), Krzysztof Barteczko|[honestit](https://github.com/honestit)|
+|Czy masz trudności z formułowaniem algorytmów i rozwiązywaniem zadań programistycznych?|[_Myśl w języku Java. Nauka programowania_](https://helion.pl/ksiazki/mysl-w-jezyku-java-nauka-programowania-allen-b-downey-chris-mayfield,mysjav.htm#format/d), Allen B. Downey, Chris Mayfield|[honestit](https://github.com/honestit)|
+|Czy potrzebujesz poznać bardziej zaawansowane zagadnienia i dowiedzieć się JAK należy języka Java używać?|[_Java. Efektywne programowanie. Wydanie III_](https://helion.pl/ksiazki/java-efektywne-programowanie-wydanie-iii-joshua-bloch,javep3.htm#format/d), Joshua Bloch||[honestit](https://github.com/honestit)|
+|Chcesz zmierzyć się z różnego rodzaju łamigłowkami z pomocą języka Java?|[_Java Puzzlers_](http://www.javapuzzlers.com/), Joshua Bloch, Neal Gafter|[honestit](https://github.com/honestit)|
+|Rozumiesz język Java i chcesz poznać szerszy obraz tego co przed Tobą?|[_The Well Grounded Java Developer_](https://www.manning.com/books/the-well-grounded-java-developer), Benjamin J. Evans, Martijn Verburg|[honestit](https://github.com/honestit)| 
 
 ### Zadania i tutoriale
 
@@ -94,23 +94,23 @@ Kolejna lista to strony zawierająca zbiory zadań i tutoriale pod konkretne obs
 
 |Pytanie|Materiał|Autor propozycji|
 |:------|:-------|:--------------:|
-|Czy masz problem z układaniem podstawowych algorytmów i samodzielnym wykorzystywaniem podstaw języka?|[CodingBat](https://codingbat.com/java)|@honestit|
-|Czy chcesz rozwinąć swoje umiejętności rozwiązywania zadań algorytmicznych na trudniejszych przykładach?|[SPOJ](https://pl.spoj.com/)|@honestit|
-|Chcesz ćwiczyć programowanie rozwiązując zadania i mając z tego sporo frajdy?|[Hacker Rank](https://www.hackerrank.com/)|@honestit|
-|j.w.|[CodeWars](https://www.codewars.com/)|@honestit|
-|j.w.|[CodingGame](https://www.codingame.com/start)|@honestit|
-|j.w.|[Leet Code](https://leetcode.com/)|@honestit|
-|j.w.|[Coderbyte](https://coderbyte.com/)|@honestit|
-|Chcesz przygotować się do zadań, z którymi możesz się spotkać na rozmowie rekrutacyjnej?|[Codility](https://app.codility.com/programmers/)|@honestit|
+|Czy masz problem z układaniem podstawowych algorytmów i samodzielnym wykorzystywaniem podstaw języka?|[CodingBat](https://codingbat.com/java)|[honestit](https://github.com/honestit)|
+|Czy chcesz rozwinąć swoje umiejętności rozwiązywania zadań algorytmicznych na trudniejszych przykładach?|[SPOJ](https://pl.spoj.com/)|[honestit](https://github.com/honestit)|
+|Chcesz ćwiczyć programowanie rozwiązując zadania i mając z tego sporo frajdy?|[Hacker Rank](https://www.hackerrank.com/)|[honestit](https://github.com/honestit)|
+|j.w.|[CodeWars](https://www.codewars.com/)|[honestit](https://github.com/honestit)|
+|j.w.|[CodingGame](https://www.codingame.com/start)|[honestit](https://github.com/honestit)|
+|j.w.|[Leet Code](https://leetcode.com/)|[honestit](https://github.com/honestit)|
+|j.w.|[Coderbyte](https://coderbyte.com/)|[honestit](https://github.com/honestit)|
+|Chcesz przygotować się do zadań, z którymi możesz się spotkać na rozmowie rekrutacyjnej?|[Codility](https://app.codility.com/programmers/)|[honestit](https://github.com/honestit)|
 
 #### Tutoriale
 
 |Pytanie|Materiał|Autor propozycji|
 |:------|:-------|:--------------:|
-|Chcesz poznać konkretne sposoby (przepisy) rozwiązania problemów technicznych na zasadzie "How to do"?|[Jenkov](http://tutorials.jenkov.com/)|@honestit|
-|j.w.|[JavaTpoint](https://www.javatpoint.com/java-tutorial)|@honestit|
-|j.w.|[Java online](https://www.learnjavaonline.org/)|@honestit|
-|j.w.|[Tutorials point](https://www.tutorialspoint.com/)|@honestit|
+|Chcesz poznać konkretne sposoby (przepisy) rozwiązania problemów technicznych na zasadzie "How to do"?|[Jenkov](http://tutorials.jenkov.com/)|[honestit](https://github.com/honestit)|
+|j.w.|[JavaTpoint](https://www.javatpoint.com/java-tutorial)|[honestit](https://github.com/honestit)|
+|j.w.|[Java online](https://www.learnjavaonline.org/)|[honestit](https://github.com/honestit)|
+|j.w.|[Tutorials point](https://www.tutorialspoint.com/)|[honestit](https://github.com/honestit)|
 
 
 #### Zagadnienia zaawansowane
@@ -123,39 +123,39 @@ najbardziej atrakcyjne, najciekawsze i na tym buduj swój potencjał.
 
 |Pytanie|Materiał|Autor propozycji|
 |:------|:-------|:--------------:|
-|Potrafisz programować, ale chcesz lepiej poznać zasady projektowania i rozpocząć przygodę ze wzorcami|[JournalDev Design Patterns](https://www.journaldev.com/1827/java-design-patterns-example-tutorial)|@honestit|
-|Podstawowa grupa wzorców to dla Ciebie już za mało i chcesz wejść naprawdę głęboko i szeroko w temat?|[Java Design Pattersn](https://github.com/iluwatar/java-design-patterns)|@honestit|
+|Potrafisz programować, ale chcesz lepiej poznać zasady projektowania i rozpocząć przygodę ze wzorcami|[JournalDev Design Patterns](https://www.journaldev.com/1827/java-design-patterns-example-tutorial)|[honestit](https://github.com/honestit)|
+|Podstawowa grupa wzorców to dla Ciebie już za mało i chcesz wejść naprawdę głęboko i szeroko w temat?|[Java Design Pattersn](https://github.com/iluwatar/java-design-patterns)|[honestit](https://github.com/honestit)|
 |Korzystasz z framework'ów typu Hibernate lub Spring/JEE i chce je zrozumieć?| | |
-|- Chcesz poznać źródło wszystkiego?[Enterprise Patterns Catalog](https://martinfowler.com/eaaCatalog/)|@honestit|
-|- Interesuje Cię po co jest warstwa serwisów?|[Service Layer](https://martinfowler.com/eaaCatalog/serviceLayer.html)|@honestit|
-|- Obiekty transferowe wydają Ci się tylko przepisywaniem kodu?|[Data Transfer Object](https://martinfowler.com/eaaCatalog/dataTransferObject.html)|@honestit|
-|- Zastanawiasz się o co chodzi z tymi transakcjami w serwisach?|[Transaction Script](https://martinfowler.com/eaaCatalog/transactionScript.html)|@honestit|
-|- Nie wiesz czemu poza transakcją musisz zapisać zmiany w encjach, a wewnątrz transackji zapisują się same?|[Unit of Work](https://martinfowler.com/eaaCatalog/unitOfWork.html)|@honestit|
-|- Chcesz zrozumieć różnice między Servletami i np. Spring MVC?|[Front Controller](https://martinfowler.com/eaaCatalog/frontController.html)|@honestit|
-|- Stosujesz wzorzec MVC, ale czasami zastanawiasz się czym jest "M"?|[MVC](https://martinfowler.com/eaaCatalog/modelViewController.html), [Page Controller](https://martinfowler.com/eaaCatalog/pageController.html)|@honestit|
-|- Wykorzystujesz repozytoria albo dao?|[Repository](https://martinfowler.com/eaaCatalog/repository.html)|@honestit|
-|- Zastanawiasz się jaką rolę pełni `EntityManager`?|[Identity Map](https://martinfowler.com/eaaCatalog/identityMap.html)|@honestit|
-|- Czym są Twoje encje i jaką magię czyni Hibernate?|[Data Mapper](https://martinfowler.com/eaaCatalog/dataMapper.html)|@honestit|
-|- Nurtuje Cię po co encji ten klucz główny?|[Identity Field](https://martinfowler.com/eaaCatalog/identityField.html)|@honestit|
-|- Męczy Cię błąd `could not initialize lazy collection...`?|[Lazy Load](https://martinfowler.com/eaaCatalog/lazyLoad.html)|@honestit|
-|- Korzystasz z `Criteria API` i chcesz wiedzieć jak to się ma do wzorców projektowych?|[Query Object](https://martinfowler.com/eaaCatalog/queryObject.html)|@honestit|
-|Jeżeli poznanie wierzchołka góry lodowej to dla Ciebie za mało?|[Patterns of Enterprise Architecture](https://martinfowler.com/books/eaa.html), Martin Fowler ([wydanie polskie](https://helion.pl/ksiazki/architektura-systemow-zarzadzania-przedsiebiorstwem-wzorce-projektowe-martin-fowler,szabko.htm#format/d))|@honestit|
+|- Chcesz poznać źródło wszystkiego?[Enterprise Patterns Catalog](https://martinfowler.com/eaaCatalog/)|[honestit](https://github.com/honestit)|
+|- Interesuje Cię po co jest warstwa serwisów?|[Service Layer](https://martinfowler.com/eaaCatalog/serviceLayer.html)|[honestit](https://github.com/honestit)|
+|- Obiekty transferowe wydają Ci się tylko przepisywaniem kodu?|[Data Transfer Object](https://martinfowler.com/eaaCatalog/dataTransferObject.html)|[honestit](https://github.com/honestit)|
+|- Zastanawiasz się o co chodzi z tymi transakcjami w serwisach?|[Transaction Script](https://martinfowler.com/eaaCatalog/transactionScript.html)|[honestit](https://github.com/honestit)|
+|- Nie wiesz czemu poza transakcją musisz zapisać zmiany w encjach, a wewnątrz transackji zapisują się same?|[Unit of Work](https://martinfowler.com/eaaCatalog/unitOfWork.html)|[honestit](https://github.com/honestit)|
+|- Chcesz zrozumieć różnice między Servletami i np. Spring MVC?|[Front Controller](https://martinfowler.com/eaaCatalog/frontController.html)|[honestit](https://github.com/honestit)|
+|- Stosujesz wzorzec MVC, ale czasami zastanawiasz się czym jest "M"?|[MVC](https://martinfowler.com/eaaCatalog/modelViewController.html), [Page Controller](https://martinfowler.com/eaaCatalog/pageController.html)|[honestit](https://github.com/honestit)|
+|- Wykorzystujesz repozytoria albo dao?|[Repository](https://martinfowler.com/eaaCatalog/repository.html)|[honestit](https://github.com/honestit)|
+|- Zastanawiasz się jaką rolę pełni `EntityManager`?|[Identity Map](https://martinfowler.com/eaaCatalog/identityMap.html)|[honestit](https://github.com/honestit)|
+|- Czym są Twoje encje i jaką magię czyni Hibernate?|[Data Mapper](https://martinfowler.com/eaaCatalog/dataMapper.html)|[honestit](https://github.com/honestit)|
+|- Nurtuje Cię po co encji ten klucz główny?|[Identity Field](https://martinfowler.com/eaaCatalog/identityField.html)|[honestit](https://github.com/honestit)|
+|- Męczy Cię błąd `could not initialize lazy collection...`?|[Lazy Load](https://martinfowler.com/eaaCatalog/lazyLoad.html)|[honestit](https://github.com/honestit)|
+|- Korzystasz z `Criteria API` i chcesz wiedzieć jak to się ma do wzorców projektowych?|[Query Object](https://martinfowler.com/eaaCatalog/queryObject.html)|[honestit](https://github.com/honestit)|
+|Jeżeli poznanie wierzchołka góry lodowej to dla Ciebie za mało?|[Patterns of Enterprise Architecture](https://martinfowler.com/books/eaa.html), Martin Fowler ([wydanie polskie](https://helion.pl/ksiazki/architektura-systemow-zarzadzania-przedsiebiorstwem-wzorce-projektowe-martin-fowler,szabko.htm#format/d))|[honestit](https://github.com/honestit)|
 
 ##### JPA, Hibernate i SQL
 
 |Pytanie|Materiał|Autor propozycji|
 |:------|:-------|:--------------:|
-|Polubiłeś/aś `Java Persistence API` i chcesz je poznać w całośći?|[Java Persistene API Specification](https://jcp.org/en/jsr/detail?id=338)|@honestit|
-|`JPA` jest interesujące ale bardziej jesteś ciekaw/a możliwości Hibernate'a?|[Vlad Mihalcea Blog](https://vladmihalcea.com/)|@honestit|
-|Czujesz, że SQL jest Twoim żywiołem albo że będzie Ci potrzebny i potrzebujesz lepiej wszystko zrozumieć?|[SQL ZOO](https://sqlzoo.net/)|@honestit|
+|Polubiłeś/aś `Java Persistence API` i chcesz je poznać w całośći?|[Java Persistene API Specification](https://jcp.org/en/jsr/detail?id=338)|[honestit](https://github.com/honestit)|
+|`JPA` jest interesujące ale bardziej jesteś ciekaw/a możliwości Hibernate'a?|[Vlad Mihalcea Blog](https://vladmihalcea.com/)|[honestit](https://github.com/honestit)|
+|Czujesz, że SQL jest Twoim żywiołem albo że będzie Ci potrzebny i potrzebujesz lepiej wszystko zrozumieć?|[SQL ZOO](https://sqlzoo.net/)|[honestit](https://github.com/honestit)|
 
 ##### Servlety i Spring MVC
 
 |Pytanie|Materiał|Autor propozycji|
 |:------|:-------|:--------------:|
-|Polubiłeś/aś `Java Servlets` i aplikacje webowe, chcesz poznać wszystko w całości?|[Java Servlets 4.0 Specification](https://jcp.org/en/jsr/detail?id=369)|@honestit|
-|Znasz już Servlety i chcesz lepiej poznać Spring'a?|[Spring Project](https://spring.io/guides)|@honestit|
-|Spring jest świetny, ale oficjalna dokumentacja trochę Cię przerażą?|[Baeldung](https://www.baeldung.com/start-here)|@honestit|
+|Polubiłeś/aś `Java Servlets` i aplikacje webowe, chcesz poznać wszystko w całości?|[Java Servlets 4.0 Specification](https://jcp.org/en/jsr/detail?id=369)|[honestit](https://github.com/honestit)|
+|Znasz już Servlety i chcesz lepiej poznać Spring'a?|[Spring Project](https://spring.io/guides)|[honestit](https://github.com/honestit)|
+|Spring jest świetny, ale oficjalna dokumentacja trochę Cię przerażą?|[Baeldung](https://www.baeldung.com/start-here)|[honestit](https://github.com/honestit)|
 
 ##### Wszystko w jednym miejscu - RefCardz
 
@@ -165,27 +165,27 @@ poniższą listę:
 |Pytanie|Materiał|Autor propozycji|
 |:------|:-------|:--------------:|
 |Java:| | |
-|- Podstawy|[Java Core]()|@honestit|
-|- Wielowątkowość|[Java Concurrency]()|@honestit|
-|- Cacheowanie|[Java Caching]()|@honestit|
-|- JPA|[Started with JPA](), [JPA 2.0]()|@honestit
+|- Podstawy|[Java Core]()|[honestit](https://github.com/honestit)|
+|- Wielowątkowość|[Java Concurrency]()|[honestit](https://github.com/honestit)|
+|- Cacheowanie|[Java Caching]()|[honestit](https://github.com/honestit)|
+|- JPA|[Started with JPA](), [JPA 2.0]()|[honestit](https://github.com/honestit)
 |Narzędzia:| | |
-|- IntelliJ|[IntelliJ]()|@honestit|
-|- Git|[Git]()|@honestit|
-|- Maven|[Maven]()|@honestit|
-|- Tomcat|[Tomcat]()|@honestit
+|- IntelliJ|[IntelliJ]()|[honestit](https://github.com/honestit)|
+|- Git|[Git]()|[honestit](https://github.com/honestit)|
+|- Maven|[Maven]()|[honestit](https://github.com/honestit)|
+|- Tomcat|[Tomcat]()|[honestit](https://github.com/honestit)
 |Technologie:| | |
-|- JUnit|[JUnit and EasyMock]()|@honestit|
-|- Wyrażenia regularne|[Regex]()|@honestit|
-|- Protokół HTTP|[HTTP]()|@honestit|
-|- JSON|[JSON]()|@honestit|
-|- HTML5|[HTML5]()|@honestit|
-|- CSS|[CSS 1](), [CSS 2](), [CSS 3]()|@honestit|
+|- JUnit|[JUnit and EasyMock]()|[honestit](https://github.com/honestit)|
+|- Wyrażenia regularne|[Regex]()|[honestit](https://github.com/honestit)|
+|- Protokół HTTP|[HTTP]()|[honestit](https://github.com/honestit)|
+|- JSON|[JSON]()|[honestit](https://github.com/honestit)|
+|- HTML5|[HTML5]()|[honestit](https://github.com/honestit)|
+|- CSS|[CSS 1](), [CSS 2](), [CSS 3]()|[honestit](https://github.com/honestit)|
 |Projektowanie:| | |
-|- Refaktoryzacja|[Refactoring Patterns]()|@honestit|
-|- Wzorce GoF|[Design Patterns]()|@honestit|
-|- Wzorce architektoniczen|[Modular Patterns](https://dzone.com/refcardz/patterns-modular-architecture?chapter=1)|@honestit|
-|- Wzorce integracyjne|[SOA Patterns](https://dzone.com/refcardz/soa-patterns?chapter=1)|@honestit|
+|- Refaktoryzacja|[Refactoring Patterns]()|[honestit](https://github.com/honestit)|
+|- Wzorce GoF|[Design Patterns]()|[honestit](https://github.com/honestit)|
+|- Wzorce architektoniczen|[Modular Patterns](https://dzone.com/refcardz/patterns-modular-architecture?chapter=1)|[honestit](https://github.com/honestit)|
+|- Wzorce integracyjne|[SOA Patterns](https://dzone.com/refcardz/soa-patterns?chapter=1)|[honestit](https://github.com/honestit)|
 
 
 ## Podsumowanie
