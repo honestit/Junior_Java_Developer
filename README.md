@@ -81,9 +81,10 @@ będą przydatne i wartościowe:
 |Czy potrzebujesz jeszcze raz zrozumieć pewne podstawowe zagadnienia z języka Java?|[_JAVA. Programowanie praktyczne od podstaw_](https://ksiegarnia.pwn.pl/JAVA.-Programowanie-praktyczne-od-podstaw,216634685,p.html), Krzysztof Barteczko|[honestit](https://github.com/honestit)|
 |Czy potrzebujesz zrozumieć zagadnienia zaawansowane język Java?|[_JAVA. Uniwersalne techniki programowania_](https://ksiegarnia.pwn.pl/Java.-Uniwersalne-techniki-programowania,114622614,p.html), Krzysztof Barteczko|[honestit](https://github.com/honestit)|
 |Czy masz trudności z formułowaniem algorytmów i rozwiązywaniem zadań programistycznych?|[_Myśl w języku Java. Nauka programowania_](https://helion.pl/ksiazki/mysl-w-jezyku-java-nauka-programowania-allen-b-downey-chris-mayfield,mysjav.htm#format/d), Allen B. Downey, Chris Mayfield|[honestit](https://github.com/honestit)|
-|Czy potrzebujesz poznać bardziej zaawansowane zagadnienia i dowiedzieć się JAK należy języka Java używać?|[_Java. Efektywne programowanie. Wydanie III_](https://helion.pl/ksiazki/java-efektywne-programowanie-wydanie-iii-joshua-bloch,javep3.htm#format/d), Joshua Bloch||[honestit](https://github.com/honestit)|
+|Czy potrzebujesz poznać bardziej zaawansowane zagadnienia i dowiedzieć się JAK należy języka Java używać?|[_Java. Efektywne programowanie. Wydanie III_](https://helion.pl/ksiazki/java-efektywne-programowanie-wydanie-iii-joshua-bloch,javep3.htm#format/d), Joshua Bloch|[honestit](https://github.com/honestit)|
 |Chcesz zmierzyć się z różnego rodzaju łamigłowkami z pomocą języka Java?|[_Java Puzzlers_](http://www.javapuzzlers.com/), Joshua Bloch, Neal Gafter|[honestit](https://github.com/honestit)|
 |Rozumiesz język Java i chcesz poznać szerszy obraz tego co przed Tobą?|[_The Well Grounded Java Developer_](https://www.manning.com/books/the-well-grounded-java-developer), Benjamin J. Evans, Martijn Verburg|[honestit](https://github.com/honestit)| 
+|Potrzebujesz raz jeszcze zrozumieć Spring MVC?|[Spring MVC. Przewodnik dla początkujących](), Amuthan G.|[honestit](https://github.com/honestit)|
 
 ### Zadania i tutoriale
 
@@ -126,7 +127,7 @@ najbardziej atrakcyjne, najciekawsze i na tym buduj swój potencjał.
 |Potrafisz programować, ale chcesz lepiej poznać zasady projektowania i rozpocząć przygodę ze wzorcami|[JournalDev Design Patterns](https://www.journaldev.com/1827/java-design-patterns-example-tutorial)|[honestit](https://github.com/honestit)|
 |Podstawowa grupa wzorców to dla Ciebie już za mało i chcesz wejść naprawdę głęboko i szeroko w temat?|[Java Design Pattersn](https://github.com/iluwatar/java-design-patterns)|[honestit](https://github.com/honestit)|
 |Korzystasz z framework'ów typu Hibernate lub Spring/JEE i chce je zrozumieć?| | |
-|- Chcesz poznać źródło wszystkiego?[Enterprise Patterns Catalog](https://martinfowler.com/eaaCatalog/)|[honestit](https://github.com/honestit)|
+|- Chcesz poznać źródło wszystkiego?|[Enterprise Patterns Catalog](https://martinfowler.com/eaaCatalog/)|[honestit](https://github.com/honestit)|
 |- Interesuje Cię po co jest warstwa serwisów?|[Service Layer](https://martinfowler.com/eaaCatalog/serviceLayer.html)|[honestit](https://github.com/honestit)|
 |- Obiekty transferowe wydają Ci się tylko przepisywaniem kodu?|[Data Transfer Object](https://martinfowler.com/eaaCatalog/dataTransferObject.html)|[honestit](https://github.com/honestit)|
 |- Zastanawiasz się o co chodzi z tymi transakcjami w serwisach?|[Transaction Script](https://martinfowler.com/eaaCatalog/transactionScript.html)|[honestit](https://github.com/honestit)|
@@ -139,7 +140,8 @@ najbardziej atrakcyjne, najciekawsze i na tym buduj swój potencjał.
 |- Nurtuje Cię po co encji ten klucz główny?|[Identity Field](https://martinfowler.com/eaaCatalog/identityField.html)|[honestit](https://github.com/honestit)|
 |- Męczy Cię błąd `could not initialize lazy collection...`?|[Lazy Load](https://martinfowler.com/eaaCatalog/lazyLoad.html)|[honestit](https://github.com/honestit)|
 |- Korzystasz z `Criteria API` i chcesz wiedzieć jak to się ma do wzorców projektowych?|[Query Object](https://martinfowler.com/eaaCatalog/queryObject.html)|[honestit](https://github.com/honestit)|
-|Jeżeli poznanie wierzchołka góry lodowej to dla Ciebie za mało?|[Patterns of Enterprise Architecture](https://martinfowler.com/books/eaa.html), Martin Fowler ([wydanie polskie](https://helion.pl/ksiazki/architektura-systemow-zarzadzania-przedsiebiorstwem-wzorce-projektowe-martin-fowler,szabko.htm#format/d))|[honestit](https://github.com/honestit)|
+|- Jeżeli poznanie wierzchołka góry lodowej to dla Ciebie za mało?|[Patterns of Enterprise Architecture](https://martinfowler.com/books/eaa.html), Martin Fowler ([wydanie polskie](https://helion.pl/ksiazki/architektura-systemow-zarzadzania-przedsiebiorstwem-wzorce-projektowe-martin-fowler,szabko.htm#format/d))|[honestit](https://github.com/honestit)|
+
 
 ##### JPA, Hibernate i SQL
 
