@@ -120,8 +120,8 @@ Kolejna lista to strony zawierająca zbiory zadań i tutoriale pod konkretne obs
 #### Zagadnienia zaawansowane
 
 Ostatnia, ale największa lista, dotyczy już konkretnych obszarów technicznych w świecie języka Java. Jeżeli mogę Ci coś zasugerować, to
-znajdź temat, który Ci się spodobał i rozwijaj się w nim. Nie próbuj umieć wszystkie, bo to jest niemożliwe. Skup się na tym co wydało Ci się 
-najbardziej atrakcyjne, najciekawsze i na tym buduj swój potencjał.
+znajdź temat, który Ci się spodobał i rozwijaj się w nim. Nie próbuj nauczyć się wszystkiego, bo to niemożliwe. Skup się na tym, co wydało Ci się 
+najbardziej atrakcyjne, najciekawsze i w ten sposób buduj swój potencjał i pozycję.
 
 ##### Projektowanie aplikacji
 
