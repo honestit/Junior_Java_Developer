@@ -85,6 +85,9 @@ będą przydatne i wartościowe:
 |Chcesz zmierzyć się z różnego rodzaju łamigłowkami z pomocą języka Java?|[_Java Puzzlers_](http://www.javapuzzlers.com/), Joshua Bloch, Neal Gafter|[honestit](https://github.com/honestit)|
 |Rozumiesz język Java i chcesz poznać szerszy obraz tego co przed Tobą?|[_The Well Grounded Java Developer_](https://www.manning.com/books/the-well-grounded-java-developer), Benjamin J. Evans, Martijn Verburg|[honestit](https://github.com/honestit)| 
 |Potrzebujesz raz jeszcze zrozumieć Spring MVC?|[Spring MVC. Przewodnik dla początkujących](), Amuthan G.|[honestit](https://github.com/honestit)|
+|Jeżeli radzisz sobie z programowaniem, ale czujesz, że jakość tego co robisz mogłaby być wyższa?|[Czysty Kod. Podręcznik dobrego programisty](https://helion.pl/ksiazki/czysty-kod-podrecznik-dobrego-programisty-robert-c-martin,czykov.htm#format/d) Robert C. Martin|[honestit](https://github.com/honestit)|
+|Chcesz zrozumieć współczesne programowanie i osiągnąć w nim mistrzostwo?|[Software Craftsman. Profesjonalizm, czysty kod i techniczna perfekcja](https://helion.pl/ksiazki/software-craftsman-profesjonalizm-czysty-kod-i-techniczna-perfekcja-sandro-mancuso,prorze.htm#format/d), Sandro Manusco|[honestit](https://github.com/honestit)|
+|Zachłysnąłeś/aś się programowaniem i szukasz inspirujących historii?|[Piękny kod. Tajemnice mistrzów programowania](https://helion.pl/ksiazki/piekny-kod-tajemnice-mistrzow-programowania-andy-oram-greg-wilson,szpppv.htm#format/d), Andy Oram, Greg Wilson|[honestit](https://github.com/honestit)|
 
 ### Zadania i tutoriale
 
