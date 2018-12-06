@@ -170,25 +170,26 @@ poniższą listę:
 |Pytanie|Materiał|Autor propozycji|
 |:------|:-------|:--------------:|
 |Java:| | |
-|- Podstawy|[Java Core]()|[honestit](https://github.com/honestit)|
-|- Wielowątkowość|[Java Concurrency]()|[honestit](https://github.com/honestit)|
-|- Cacheowanie|[Java Caching]()|[honestit](https://github.com/honestit)|
-|- JPA|[Started with JPA](), [JPA 2.0]()|[honestit](https://github.com/honestit)
+|- Podstawy|[Java Core](https://dzone.com/refcardz/core-java?chapter=1)|[honestit](https://github.com/honestit)|
+|- Wielowątkowość|[Java Concurrency](https://dzone.com/refcardz/core-java-concurrency?chapter=1)|[honestit](https://github.com/honestit)|
+|- Cacheowanie|[Java Caching](https://dzone.com/refcardz/java-caching?chapter=1)|[honestit](https://github.com/honestit)|
+|- JPA|[Started with JPA](https://dzone.com/refcardz/getting-started-with-jpa?chapter=1), [JPA 2.0](https://dzone.com/refcardz/whats-new-jpa-20?chapter=1)|[honestit](https://github.com/honestit)
 |Narzędzia:| | |
-|- IntelliJ|[IntelliJ]()|[honestit](https://github.com/honestit)|
-|- Git|[Git]()|[honestit](https://github.com/honestit)|
-|- Maven|[Maven]()|[honestit](https://github.com/honestit)|
-|- Tomcat|[Tomcat]()|[honestit](https://github.com/honestit)
+|- IntelliJ|[IntelliJ](https://dzone.com/refcardz/intellij-idea-update?chapter=1)|[honestit](https://github.com/honestit)|
+|- Git|[Git](https://dzone.com/refcardz/getting-started-git?chapter=1)|[honestit](https://github.com/honestit)|
+|- Maven|[Maven](https://dzone.com/refcardz/getting-started-repository?chapter=1)|[honestit](https://github.com/honestit)|
+|- Tomcat|[Tomcat](https://dzone.com/refcardz/getting-started-with-apache-tomcat?chapter=1)|[honestit](https://github.com/honestit)
 |Technologie:| | |
-|- JUnit|[JUnit and EasyMock]()|[honestit](https://github.com/honestit)|
-|- Wyrażenia regularne|[Regex]()|[honestit](https://github.com/honestit)|
-|- Protokół HTTP|[HTTP]()|[honestit](https://github.com/honestit)|
-|- JSON|[JSON]()|[honestit](https://github.com/honestit)|
-|- HTML5|[HTML5]()|[honestit](https://github.com/honestit)|
-|- CSS|[CSS 1](), [CSS 2](), [CSS 3]()|[honestit](https://github.com/honestit)|
+|- JUnit|[JUnit and EasyMock](https://dzone.com/refcardz/junit-and-easymock?chapter=1)|[honestit](https://github.com/honestit)|
+|- Wyrażenia regularne|[Regex](https://dzone.com/refcardz/regular-expressions?chapter=1)|[honestit](https://github.com/honestit)|
+|- Protokół HTTP|[HTTP](https://dzone.com/refcardz/http-hypertext-transfer-0?chapter=1)|[honestit](https://github.com/honestit)|
+|- JSON|[JSON](https://dzone.com/refcardz/core-json?chapter=1)|[honestit](https://github.com/honestit)|
+|- HTML5|[HTML5](https://dzone.com/refcardz/html5-new-standards-web-interactivity?chapter=1)|[honestit](https://github.com/honestit)|
+|- CSS|[CSS 1](https://dzone.com/refcardz/corecss-part1?chapter=1), [CSS 2](https://dzone.com/refcardz/corecss2?chapter=1), [CSS 3](https://dzone.com/refcardz/corecss3?chapter=1)|[honestit](https://github.com/honestit)|
 |Projektowanie:| | |
-|- Refaktoryzacja|[Refactoring Patterns]()|[honestit](https://github.com/honestit)|
-|- Wzorce GoF|[Design Patterns]()|[honestit](https://github.com/honestit)|
+|- Refaktoryzacja|[Refactoring Patterns](https://dzone.com/refcardz/refactoring-patterns?chapter=1)|[honestit](https://github.com/honestit)|
+|- Wzorce GoF|[Design Patterns](https://dzone.com/refcardz/design-patterns?chapter=1
+)|[honestit](https://github.com/honestit)|
 |- Wzorce architektoniczen|[Modular Patterns](https://dzone.com/refcardz/patterns-modular-architecture?chapter=1)|[honestit](https://github.com/honestit)|
 |- Wzorce integracyjne|[SOA Patterns](https://dzone.com/refcardz/soa-patterns?chapter=1)|[honestit](https://github.com/honestit)|
 
