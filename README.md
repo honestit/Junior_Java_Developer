@@ -52,6 +52,10 @@ czy przygotowania do stanowiska Junior Java Developer.
 Rolą udostępnionych tutaj materiałów jest wskazanie możliwości dalszej nauki i samodzielnego rozwoju
 w poznanych technologiach i elementach języka Java.
 
+### Aktualizacja
+
+2018-12-07 Dodano do #ksiazki nowe pozycje związane z Spring Framework oraz klasyczną Javą
+
 ### Kategorie materiałów
 
 Materiały zebrane są w trzech kategoriach:
@@ -80,14 +84,17 @@ będą przydatne i wartościowe:
 |:------|:-------|:--------------:|
 |Czy potrzebujesz jeszcze raz zrozumieć pewne podstawowe zagadnienia z języka Java?|[_JAVA. Programowanie praktyczne od podstaw_](https://ksiegarnia.pwn.pl/JAVA.-Programowanie-praktyczne-od-podstaw,216634685,p.html), Krzysztof Barteczko|[honestit](https://github.com/honestit)|
 |Czy potrzebujesz zrozumieć zagadnienia zaawansowane język Java?|[_JAVA. Uniwersalne techniki programowania_](https://ksiegarnia.pwn.pl/Java.-Uniwersalne-techniki-programowania,114622614,p.html), Krzysztof Barteczko|[honestit](https://github.com/honestit)|
-|Czy masz trudności z formułowaniem algorytmów i rozwiązywaniem zadań programistycznych?|[_Myśl w języku Java. Nauka programowania_](https://helion.pl/ksiazki/mysl-w-jezyku-java-nauka-programowania-allen-b-downey-chris-mayfield,mysjav.htm#format/d), Allen B. Downey, Chris Mayfield|[honestit](https://github.com/honestit)|
-|Czy potrzebujesz poznać bardziej zaawansowane zagadnienia i dowiedzieć się JAK należy języka Java używać?|[_Java. Efektywne programowanie. Wydanie III_](https://helion.pl/ksiazki/java-efektywne-programowanie-wydanie-iii-joshua-bloch,javep3.htm#format/d), Joshua Bloch|[honestit](https://github.com/honestit)|
+|Czy masz trudności z formułowaniem algorytmów i rozwiązywaniem zadań programistycznych?|[_Myśl w języku Java. Nauka programowania_](https://helion.pl/view/10695k/mysjav.htm#format/d), Allen B. Downey, Chris Mayfield|[honestit](https://github.com/honestit)|
+|Czy potrzebujesz poznać bardziej zaawansowane zagadnienia i dowiedzieć się JAK należy języka Java używać?|[_Java. Efektywne programowanie. Wydanie III_](https://helion.pl/view/10695k/javep3.htm#format/d), Joshua Bloch|[honestit](https://github.com/honestit)|
+|Potrafisz sprawnie posługiwać się językiem Java i rozumiesz poznane zagadnienia, ale szukasz pełnego przeglądu języka Java w zakresie
+młodszego programisty?|[_Java. Podstawy_](https://helion.pl/view/10695k/javp10.htm#format/e), Cay S. Horstmann oraz [_Java. Techniki zaawansowane_](https://helion.pl/view/10695k/javtzx.htm#format/d), Cay S. Horstmann|[honestit](https://github.com/honestit)|
 |Chcesz zmierzyć się z różnego rodzaju łamigłowkami z pomocą języka Java?|[_Java Puzzlers_](http://www.javapuzzlers.com/), Joshua Bloch, Neal Gafter|[honestit](https://github.com/honestit)|
 |Rozumiesz język Java i chcesz poznać szerszy obraz tego co przed Tobą?|[_The Well Grounded Java Developer_](https://www.manning.com/books/the-well-grounded-java-developer), Benjamin J. Evans, Martijn Verburg|[honestit](https://github.com/honestit)| 
-|Potrzebujesz raz jeszcze zrozumieć Spring MVC?|[Spring MVC. Przewodnik dla początkujących](), Amuthan G.|[honestit](https://github.com/honestit)|
-|Jeżeli radzisz sobie z programowaniem, ale czujesz, że jakość tego co robisz mogłaby być wyższa?|[Czysty Kod. Podręcznik dobrego programisty](https://helion.pl/ksiazki/czysty-kod-podrecznik-dobrego-programisty-robert-c-martin,czykov.htm#format/d) Robert C. Martin|[honestit](https://github.com/honestit)|
-|Chcesz zrozumieć współczesne programowanie i osiągnąć w nim mistrzostwo?|[Software Craftsman. Profesjonalizm, czysty kod i techniczna perfekcja](https://helion.pl/ksiazki/software-craftsman-profesjonalizm-czysty-kod-i-techniczna-perfekcja-sandro-mancuso,prorze.htm#format/d), Sandro Manusco|[honestit](https://github.com/honestit)|
-|Zachłysnąłeś/aś się programowaniem i szukasz inspirujących historii?|[Piękny kod. Tajemnice mistrzów programowania](https://helion.pl/ksiazki/piekny-kod-tajemnice-mistrzow-programowania-andy-oram-greg-wilson,szpppv.htm#format/d), Andy Oram, Greg Wilson|[honestit](https://github.com/honestit)|
+|Potrzebujesz raz jeszcze zrozumieć Spring MVC?|[_Spring MVC. Przewodnik dla początkujących_](https://helion.pl/view/10695k/sprimv.htm#format/e), Amuthan G. oraz [_Spring MVC 4. Projektowanie zaawansowanych aplikacji_](https://helion.pl/view/10695k/smvc4p.htm#format/d), Geoffroy Warin|[honestit](https://github.com/honestit)|
+|Rozumiesz już Spring Framework i potrzebujesz pozycji przeglądowej, zawsze pod ręką?|[_Spring w akcji_](https://helion.pl/view/10695k/sprwa4.htm#format/d), Craig Walls|[honestit](https://github.com/honestit)|
+|Jeżeli radzisz sobie z programowaniem, ale czujesz, że jakość tego co robisz mogłaby być wyższa?|[_Czysty Kod. Podręcznik dobrego programisty_](https://helion.pl/view/10695k/czykov.htm#format/d) Robert C. Martin|[honestit](https://github.com/honestit)|
+|Chcesz zrozumieć współczesne programowanie i osiągnąć w nim mistrzostwo?|[_Software Craftsman. Profesjonalizm, czysty kod i techniczna perfekcja_](https://helion.pl/view/10695k/prorze.htm#format/d), Sandro Manusco|[honestit](https://github.com/honestit)|
+|Zachłysnąłeś/aś się programowaniem i szukasz inspirujących historii?|[_Piękny kod. Tajemnice mistrzów programowania_](https://helion.pl/view/10695k/szpppv.htm#format/d), Andy Oram, Greg Wilson|[honestit](https://github.com/honestit)|
 
 ### Zadania i tutoriale
 
