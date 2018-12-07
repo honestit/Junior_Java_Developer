@@ -195,8 +195,7 @@ poniższą listę:
 |- CSS|[CSS 1](https://dzone.com/refcardz/corecss-part1?chapter=1), [CSS 2](https://dzone.com/refcardz/corecss2?chapter=1), [CSS 3](https://dzone.com/refcardz/corecss3?chapter=1)|[honestit](https://github.com/honestit)|
 |Projektowanie:| | |
 |- Refaktoryzacja|[Refactoring Patterns](https://dzone.com/refcardz/refactoring-patterns?chapter=1)|[honestit](https://github.com/honestit)|
-|- Wzorce GoF|[Design Patterns](https://dzone.com/refcardz/design-patterns?chapter=1
-)|[honestit](https://github.com/honestit)|
+|- Wzorce GoF|[Design Patterns](https://dzone.com/refcardz/design-patterns?chapter=1)|[honestit](https://github.com/honestit)|
 |- Wzorce architektoniczen|[Modular Patterns](https://dzone.com/refcardz/patterns-modular-architecture?chapter=1)|[honestit](https://github.com/honestit)|
 |- Wzorce integracyjne|[SOA Patterns](https://dzone.com/refcardz/soa-patterns?chapter=1)|[honestit](https://github.com/honestit)|
 
