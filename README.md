@@ -82,6 +82,7 @@ będą przydatne i wartościowe:
 
 |Pytanie|Materiał|Autor propozycji|
 |:------|:-------|:--------------:|
+|Czy chciałbyś poznać język Java, a nie miałeś do tej pory żadnej styczności z programowaniem?|[_Java. Przewodnik dla początkujących_](https://helion.pl/ksiazki/java-przewodnik-dla-poczatkujacych-wydanie-vii-herbert-schildt,javpp7.htm#format/d), Herbert Schildt|[AdrianGalus](https://github.com/AdrianGalus)|
 |Czy potrzebujesz jeszcze raz zrozumieć pewne podstawowe zagadnienia z języka Java?|[_JAVA. Programowanie praktyczne od podstaw_](https://ksiegarnia.pwn.pl/JAVA.-Programowanie-praktyczne-od-podstaw,216634685,p.html), Krzysztof Barteczko|[honestit](https://github.com/honestit)|
 |Czy potrzebujesz zrozumieć zagadnienia zaawansowane język Java?|[_JAVA. Uniwersalne techniki programowania_](https://ksiegarnia.pwn.pl/Java.-Uniwersalne-techniki-programowania,114622614,p.html), Krzysztof Barteczko|[honestit](https://github.com/honestit)|
 |Czy masz trudności z formułowaniem algorytmów i rozwiązywaniem zadań programistycznych?|[_Myśl w języku Java. Nauka programowania_](https://helion.pl/view/10695k/mysjav.htm#format/d), Allen B. Downey, Chris Mayfield|[honestit](https://github.com/honestit)|
