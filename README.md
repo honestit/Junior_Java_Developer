@@ -54,9 +54,9 @@ w poznanych technologiach i elementach języka Java.
 
 ### Aktualizacja
 
-2018-12-14 Dodano do #Ksiazki nową pozycje: "Programowanie w Javie. Solidna wiedza w praktyce. Wydanie XI". Szczególnie polecam tą książkę, jako źródło całościowej wiedzy o języku Java. Uczyłem się od tych autorów programowania w C++ 20 lat temu, z książki "Arkana Programowania C++". Nigdy w swoim całym życiu zawodowym nie spotkałem już innej pozycji tak kompleksowej jak ta. Gorąco polecam!
-2018-12-14 Dodano do #Ksiązki nową pozycje: "Java. Przewodnik dla początkujących. Wydanie VII", od [AdrianGalus](https://github.com/AdrianGalus). Tym samym pojawiła się pierwsza aktywność naszej mikro społeczności :)
-2018-12-07 Dodano do #ksiazki nowe pozycje związane z Spring Framework oraz klasyczną Javą
+- 2018-12-14 Dodano do #Ksiazki nową pozycje: "Programowanie w Javie. Solidna wiedza w praktyce. Wydanie XI". Szczególnie polecam tą książkę, jako źródło całościowej wiedzy o języku Java. Uczyłem się od tych autorów programowania w C++ 20 lat temu, z książki "Arkana Programowania C++". Nigdy w swoim całym życiu zawodowym nie spotkałem już innej pozycji tak kompleksowej jak ta. Gorąco polecam!
+- 2018-12-14 Dodano do #Ksiązki nową pozycje: "Java. Przewodnik dla początkujących. Wydanie VII", od [AdrianGalus](https://github.com/AdrianGalus). Tym samym pojawiła się pierwsza aktywność naszej mikro społeczności :)
+- 2018-12-07 Dodano do #ksiazki nowe pozycje związane z Spring Framework oraz klasyczną Javą
 
 ### Kategorie materiałów
 
