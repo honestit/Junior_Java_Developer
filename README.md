@@ -54,6 +54,8 @@ w poznanych technologiach i elementach języka Java.
 
 ### Aktualizacja
 
+2018-12-14 Dodano do #Ksiazki nową pozycje: "Programowanie w Javie. Solidna wiedza w praktyce. Wydanie XI". Szczególnie polecam tą książkę, jako źródło całościowej wiedzy o języku Java. Uczyłem się od tych autorów programowania w C++ 20 lat temu, z książki "Arkana Programowania C++". Nigdy w swoim całym życiu zawodowym nie spotkałem już innej pozycji tak kompleksowej jak ta. Gorąco polecam!
+2018-12-14 Dodano do #Ksiązki nową pozycje: "Java. Przewodnik dla początkujących. Wydanie VII", od [AdrianGalus](https://github.com/AdrianGalus). Tym samym pojawiła się pierwsza aktywność naszej mikro społeczności :)
 2018-12-07 Dodano do #ksiazki nowe pozycje związane z Spring Framework oraz klasyczną Javą
 
 ### Kategorie materiałów
@@ -82,7 +84,8 @@ będą przydatne i wartościowe:
 
 |Pytanie|Materiał|Autor propozycji|
 |:------|:-------|:--------------:|
-|Czy chciałbyś poznać język Java, a nie miałeś do tej pory żadnej styczności z programowaniem?|[_Java. Przewodnik dla początkujących_](https://helion.pl/ksiazki/java-przewodnik-dla-poczatkujacych-wydanie-vii-herbert-schildt,javpp7.htm#format/d), Herbert Schildt|[AdrianGalus](https://github.com/AdrianGalus)|
+|**Wyróżnione** Całościowy, kompleksowy przegląd języka Java na najwyższym poziomie|[_Programowanie w Javie. Solidna wiedza w praktyce. Wydanie XI_](https://helion.pl/view/10695k/prjaso.htm#format/d)|[honestit](https://github.com/honestit)|
+|Czy chciałbyś raz jeszcze w lekki sposób dowiedzieć się o języku Java?|[_Java. Przewodnik dla początkujących_](https://helion.pl/view/10695k/javpp7.htm#format/d), Herbert Schildt|[AdrianGalus](https://github.com/AdrianGalus)|
 |Czy potrzebujesz jeszcze raz zrozumieć pewne podstawowe zagadnienia z języka Java?|[_JAVA. Programowanie praktyczne od podstaw_](https://ksiegarnia.pwn.pl/JAVA.-Programowanie-praktyczne-od-podstaw,216634685,p.html), Krzysztof Barteczko|[honestit](https://github.com/honestit)|
 |Czy potrzebujesz zrozumieć zagadnienia zaawansowane język Java?|[_JAVA. Uniwersalne techniki programowania_](https://ksiegarnia.pwn.pl/Java.-Uniwersalne-techniki-programowania,114622614,p.html), Krzysztof Barteczko|[honestit](https://github.com/honestit)|
 |Czy masz trudności z formułowaniem algorytmów i rozwiązywaniem zadań programistycznych?|[_Myśl w języku Java. Nauka programowania_](https://helion.pl/view/10695k/mysjav.htm#format/d), Allen B. Downey, Chris Mayfield|[honestit](https://github.com/honestit)|
