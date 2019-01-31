@@ -54,9 +54,10 @@ w poznanych technologiach i elementach języka Java.
 
 ### Aktualizacja
 
-- 2018-12-14 Dodano do #Ksiazki nową pozycje: "Programowanie w Javie. Solidna wiedza w praktyce. Wydanie XI". Szczególnie polecam tą książkę, jako źródło całościowej wiedzy o języku Java. Uczyłem się od tych autorów programowania w C++ 20 lat temu, z książki "Arkana Programowania C++". Nigdy w swoim całym życiu zawodowym nie spotkałem już innej pozycji tak kompleksowej jak ta. Gorąco polecam!
-- 2018-12-14 Dodano do #Ksiązki nową pozycje: "Java. Przewodnik dla początkujących. Wydanie VII", od [AdrianGalus](https://github.com/AdrianGalus). Tym samym pojawiła się pierwsza aktywność naszej mikro społeczności :)
-- 2018-12-07 Dodano do #ksiazki nowe pozycje związane z Spring Framework oraz klasyczną Javą
+- 2019-01-31 Dodano do [Książki](#Ksiazki) nową pozycję: "_Myśl jak programista. Techniki kreatywnego rozwiązywania problemów_". Lektura polecana absolutnie dla wszystkich, którzy chcą zrozumieć, co jest w tym zawodzie najważniejsze: nie język, nie framework, nie środowisko i narzędzia, a właściwy sposób myślenia (możliwy do wyuczenia krok po kroku).
+- 2018-12-14 Dodano do [Książki](#Ksiazki) nową pozycje: "_Programowanie w Javie. Solidna wiedza w praktyce. Wydanie XI_". Szczególnie polecam tą książkę, jako źródło całościowej wiedzy o języku Java. Uczyłem się od tych autorów programowania w C++ 20 lat temu, z książki "Arkana Programowania C++". Nigdy w swoim całym życiu zawodowym nie spotkałem już innej pozycji tak kompleksowej jak ta. Gorąco polecam!
+- 2018-12-14 Dodano do [Książki](#Ksiązki) nową pozycje: "_Java. Przewodnik dla początkujących. Wydanie VII_", od [AdrianGalus](https://github.com/AdrianGalus). Tym samym pojawiła się pierwsza aktywność naszej mikro społeczności :)
+- 2018-12-07 Dodano do #ksiazki nowe pozycje związane ze Spring Framework oraz klasyczną Javą.
 
 ### Kategorie materiałów
 
@@ -84,6 +85,7 @@ będą przydatne i wartościowe:
 
 |Pytanie|Materiał|Autor propozycji|
 |:------|:-------|:--------------:|
+|**Wyróżnione** Jeżeli zgadzasz się ze mną, że nie istnieją predyspozycje do programowania, a umiejętności, które masz dzisiaj, jutro mogą być na zupełnie innym, wyższym poziomie, to ta książka jest dla Ciebie. Jeżeli się nie zgadzasz, to ta książka też jest dla Ciebie|[Myśl jak programista. Techniki kreatywnego rozwiązywania problemów](https://helion.pl/view/10695kmyprog.htm#format/e), V. Anton Spraul|[honestit](https://github.com/honestit)|
 |**Wyróżnione** Całościowy, kompleksowy przegląd języka Java na najwyższym poziomie|[_Programowanie w Javie. Solidna wiedza w praktyce. Wydanie XI_](https://helion.pl/view/10695k/prjaso.htm#format/d)|[honestit](https://github.com/honestit)|
 |Czy chciałbyś raz jeszcze w lekki sposób dowiedzieć się o języku Java?|[_Java. Przewodnik dla początkujących_](https://helion.pl/view/10695k/javpp7.htm#format/d), Herbert Schildt|[AdrianGalus](https://github.com/AdrianGalus)|
 |Czy potrzebujesz jeszcze raz zrozumieć pewne podstawowe zagadnienia z języka Java?|[_JAVA. Programowanie praktyczne od podstaw_](https://ksiegarnia.pwn.pl/JAVA.-Programowanie-praktyczne-od-podstaw,216634685,p.html), Krzysztof Barteczko|[honestit](https://github.com/honestit)|
