@@ -85,7 +85,7 @@ będą przydatne i wartościowe:
 
 |Pytanie|Materiał|Autor propozycji|
 |:------|:-------|:--------------:|
-|**Wyróżnione** Jeżeli zgadzasz się ze mną, że nie istnieją predyspozycje do programowania, a umiejętności, które masz dzisiaj, jutro mogą być na zupełnie innym, wyższym poziomie, to ta książka jest dla Ciebie. Jeżeli się nie zgadzasz, to ta książka też jest dla Ciebie|[Myśl jak programista. Techniki kreatywnego rozwiązywania problemów](https://helion.pl/view/10695kmyprog.htm#format/e), V. Anton Spraul|[honestit](https://github.com/honestit)|
+|**Wyróżnione** Jeżeli zgadzasz się ze mną, że nie istnieją predyspozycje do programowania, a umiejętności, które masz dzisiaj, jutro mogą być na zupełnie innym, wyższym poziomie, to ta książka jest dla Ciebie. Jeżeli się nie zgadzasz, to ta książka też jest dla Ciebie|[_Myśl jak programista. Techniki kreatywnego rozwiązywania problemów_](https://helion.pl/view/10695k/myprog.htm#format/e), V. Anton Spraul|[honestit](https://github.com/honestit)|
 |**Wyróżnione** Całościowy, kompleksowy przegląd języka Java na najwyższym poziomie|[_Programowanie w Javie. Solidna wiedza w praktyce. Wydanie XI_](https://helion.pl/view/10695k/prjaso.htm#format/d)|[honestit](https://github.com/honestit)|
 |Czy chciałbyś raz jeszcze w lekki sposób dowiedzieć się o języku Java?|[_Java. Przewodnik dla początkujących_](https://helion.pl/view/10695k/javpp7.htm#format/d), Herbert Schildt|[AdrianGalus](https://github.com/AdrianGalus)|
 |Czy potrzebujesz jeszcze raz zrozumieć pewne podstawowe zagadnienia z języka Java?|[_JAVA. Programowanie praktyczne od podstaw_](https://ksiegarnia.pwn.pl/JAVA.-Programowanie-praktyczne-od-podstaw,216634685,p.html), Krzysztof Barteczko|[honestit](https://github.com/honestit)|
