@@ -174,6 +174,14 @@ najbardziej atrakcyjne, najciekawsze i w ten sposób buduj swój potencjał i po
 |Znasz już Servlety i chcesz lepiej poznać Spring'a?|[Spring Project](https://spring.io/guides)|[honestit](https://github.com/honestit)|
 |Spring jest świetny, ale oficjalna dokumentacja trochę Cię przerażą?|[Baeldung](https://www.baeldung.com/start-here)|[honestit](https://github.com/honestit)|
 
+##### Przygotowanie do rozmowy kwalifikacyjnej
+
+Nie wiesz czy jesteś już gotowy wysyłać CV na oferty pracy? Chcesz spóbować swoich sił przed prawdziwą rozmową kwalifikacyjną? Skorzystaj z portali, gdzie możesz umówić się z innymi osobami takimi jak Ty:
+
+|Pytanie|Materiał|Autor propozycji|
+|:------|:-------|:--------------:|
+|Darmowa rejestracja i kredyty na pierwsze rozmowy - odbywając rozmowy zdobywasz kredyt na kolejne|[Pramp](https://www.pramp.com/#/)|[ziehlke](https://github.com/ziehlke)|
+
 ##### Wszystko w jednym miejscu - RefCardz
 
 W sytuacji, kiedy dana technologia jest już Ci znana, ale chcesz szybko odświeżyć informacje (idealne przed rozmową rekrutacyjną), to polecam
@@ -203,7 +211,6 @@ poniższą listę:
 |- Wzorce GoF|[Design Patterns](https://dzone.com/refcardz/design-patterns?chapter=1)|[honestit](https://github.com/honestit)|
 |- Wzorce architektoniczen|[Modular Patterns](https://dzone.com/refcardz/patterns-modular-architecture?chapter=1)|[honestit](https://github.com/honestit)|
 |- Wzorce integracyjne|[SOA Patterns](https://dzone.com/refcardz/soa-patterns?chapter=1)|[honestit](https://github.com/honestit)|
-
 
 ## Podsumowanie
 
