@@ -196,7 +196,8 @@ poniższą listę:
 |- Wyrażenia regularne|[Regex](https://dzone.com/refcardz/regular-expressions?chapter=1)|[honestit](https://github.com/honestit)|
 |- Protokół HTTP|[HTTP](https://dzone.com/refcardz/http-hypertext-transfer-0?chapter=1)|[honestit](https://github.com/honestit)|
 |- JSON|[JSON](https://dzone.com/refcardz/core-json?chapter=1)|[honestit](https://github.com/honestit)|
-|- HTML5|[HTML5](https://dzone.com/refcardz/html5-new-standards-web-interactivity?chapter=1)|[honestit](https://github.com/honestit)|
+|- HTML|[HTML Core](https://dzone.com/asset/download/192)|[honestit](https://github.com/honestit)|
+|- HTML5|[HTML5 Features](https://dzone.com/refcardz/html5-new-standards-web-interactivity?chapter=1)|[honestit](https://github.com/honestit)|
 |- CSS|[CSS 1](https://dzone.com/refcardz/corecss-part1?chapter=1), [CSS 2](https://dzone.com/refcardz/corecss2?chapter=1), [CSS 3](https://dzone.com/refcardz/corecss3?chapter=1)|[honestit](https://github.com/honestit)|
 |Projektowanie:| | |
 |- Refaktoryzacja|[Refactoring Patterns](https://dzone.com/refcardz/refactoring-patterns?chapter=1)|[honestit](https://github.com/honestit)|
