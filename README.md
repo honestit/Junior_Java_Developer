@@ -54,6 +54,8 @@ w poznanych technologiach i elementach języka Java.
 
 ### Aktualizacja
 
+- 2019-03-15 Dodano nową sekcję `Przygotowanie do rozmowy rekrutacyjnej` z pierwszym materiałem, a więc serwisem Pramp. Za cenną propozycją [ziehlke](https://github.com/ziehlke). 
+- 2019-03-15 Dodano do `Zadania i tutoriale` nową pozycję: "_HTML RefCard_". Podstawowe elementy HTML w formie szybkiej pomocy.
 - 2019-01-31 Dodano do [Książki](#Ksiazki) nową pozycję: "_Myśl jak programista. Techniki kreatywnego rozwiązywania problemów_". Lektura polecana absolutnie dla wszystkich, którzy chcą zrozumieć, co jest w tym zawodzie najważniejsze: nie język, nie framework, nie środowisko i narzędzia, a właściwy sposób myślenia (możliwy do wyuczenia krok po kroku).
 - 2018-12-14 Dodano do [Książki](#Ksiazki) nową pozycje: "_Programowanie w Javie. Solidna wiedza w praktyce. Wydanie XI_". Szczególnie polecam tą książkę, jako źródło całościowej wiedzy o języku Java. Uczyłem się od tych autorów programowania w C++ 20 lat temu, z książki "Arkana Programowania C++". Nigdy w swoim całym życiu zawodowym nie spotkałem już innej pozycji tak kompleksowej jak ta. Gorąco polecam!
 - 2018-12-14 Dodano do [Książki](#Ksiązki) nową pozycje: "_Java. Przewodnik dla początkujących. Wydanie VII_", od [AdrianGalus](https://github.com/AdrianGalus). Tym samym pojawiła się pierwsza aktywność naszej mikro społeczności :)
@@ -174,6 +176,14 @@ najbardziej atrakcyjne, najciekawsze i w ten sposób buduj swój potencjał i po
 |Znasz już Servlety i chcesz lepiej poznać Spring'a?|[Spring Project](https://spring.io/guides)|[honestit](https://github.com/honestit)|
 |Spring jest świetny, ale oficjalna dokumentacja trochę Cię przerażą?|[Baeldung](https://www.baeldung.com/start-here)|[honestit](https://github.com/honestit)|
 
+##### Przygotowanie do rozmowy kwalifikacyjnej
+
+Nie wiesz czy jesteś już gotowy wysyłać CV na oferty pracy? Chcesz spóbować swoich sił przed prawdziwą rozmową kwalifikacyjną? Skorzystaj z portali, gdzie możesz umówić się z innymi osobami takimi jak Ty:
+
+|Pytanie|Materiał|Autor propozycji|
+|:------|:-------|:--------------:|
+|Darmowa rejestracja i kredyty na pierwsze rozmowy - odbywając rozmowy zdobywasz kredyt na kolejne|[Pramp](https://www.pramp.com/#/)|[ziehlke](https://github.com/ziehlke)|
+
 ##### Wszystko w jednym miejscu - RefCardz
 
 W sytuacji, kiedy dana technologia jest już Ci znana, ale chcesz szybko odświeżyć informacje (idealne przed rozmową rekrutacyjną), to polecam
@@ -204,7 +214,6 @@ poniższą listę:
 |- Wzorce GoF|[Design Patterns](https://dzone.com/refcardz/design-patterns?chapter=1)|[honestit](https://github.com/honestit)|
 |- Wzorce architektoniczen|[Modular Patterns](https://dzone.com/refcardz/patterns-modular-architecture?chapter=1)|[honestit](https://github.com/honestit)|
 |- Wzorce integracyjne|[SOA Patterns](https://dzone.com/refcardz/soa-patterns?chapter=1)|[honestit](https://github.com/honestit)|
-
 
 ## Podsumowanie
 
