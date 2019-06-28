@@ -61,7 +61,7 @@ w poznanych technologiach i elementach języka Java.
 
 ### Aktualizacja
 
-- 2019-06-28 Dodano wyróżnioną pozycję z wylistowanym zakresem wymagań dotyczących Junior Java Developer. Bardzo kompleksowa lista (aż tyle nie trzeba umieć), ale jednocześnie z podliknowanymi materiałami do każdego z tematów. **Polecam jak _checklistę na ile jestem przygotownany/przygotowana_**.
+- 2019-06-28 Dodano wyróżnioną pozycję z wylistowanym zakresem wymagań dotyczących Junior Java Developer. Bardzo kompleksowa lista (aż tyle nie trzeba umieć), ale jednocześnie z podliknowanymi materiałami do każdego z tematów. **Polecam jako _checklistę na ile jestem przygotownany/przygotowana_**.
 - 2019-03-15 Dodano nową sekcję `Przygotowanie do rozmowy rekrutacyjnej` z pierwszym materiałem, a więc serwisem Pramp. Za cenną propozycją [ziehlke](https://github.com/ziehlke). 
 - 2019-03-15 Dodano do `Zadania i tutoriale` nową pozycję: "_HTML RefCard_". Podstawowe elementy HTML w formie szybkiej pomocy.
 - 2019-01-31 Dodano do [Książki](#Ksiazki) nową pozycję: "_Myśl jak programista. Techniki kreatywnego rozwiązywania problemów_". Lektura polecana absolutnie dla wszystkich, którzy chcą zrozumieć, co jest w tym zawodzie najważniejsze: nie język, nie framework, nie środowisko i narzędzia, a właściwy sposób myślenia (możliwy do wyuczenia krok po kroku).
@@ -95,7 +95,7 @@ na nim. Potem kolejne, kolejne. Dobrze oddaje to poniższa grafika:
 
 Na stronie Java Code Geeks kilka miesięcy temu pojawiła się bardzo kompleksowa lista tego, co powinna nauczyć się osoba chcąca zostać Junior Java Developer. Lista jest szeroka i część wymagań może być ponad rozpoczęcie kariery. Jednak olbrzymią wartością tej listy jest to, że każde z wymagań posiada również linki do materiałów, z których można się ich nauczyć bądź zweryfikować już posiadaną wiedzę. Gorąco polecam!
 
-[Co Junior Java Developer znać umieć powinien](https://www.javacodegeeks.com/2019/04/best-way-to-learn-java-programming-online.html)
+[Co Junior Java Developer umieć powinien](https://www.javacodegeeks.com/2019/04/best-way-to-learn-java-programming-online.html)
 
 ---
 
