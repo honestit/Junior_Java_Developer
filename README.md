@@ -1,10 +1,13 @@
 # Junior Java Developer
 Zbiór przydatnych materiałów dla osób gotowych do rozpoczęcia swojej przygody z zawodowym programowaniem i szukających drogi dalej.
 
+---
 
 ## Wstęp
 
 Przed ropoczęciem korzystania z udostępnionych tutaj materiałów zapoznaj się z kilkoma podstawowymi informacjami.
+
+---
 
 ### Nota prawna
 
@@ -23,6 +26,7 @@ Dalsze rozpowszechnianie i/lub kopiowanie repozytorium bez zgody autora, w cało
 
 >Repozytorium oraz każda jego kopia (fork) muszą zachować powyższą notę prawną.
 
+---
 
 ### Materiały w repozytorium
 
@@ -30,6 +34,7 @@ Zebrane materiały w repozytorium są wybiórczym i subiektwynym zbiorem, który
 Jednocześnie umieszczenie tego zbioru na poziomie repozytorium Git gwarantuje utrzymanie historii
 zmian, więc jeżeli taką jesteś zainteresowany, to czuj się wolny do śmiałego przeglądania hsitorii zmian.
 
+---
 
 ### Rozwój zbioru materiałów
 
@@ -41,7 +46,7 @@ zbiór pozostał aktualny. Każdą złożoną przez Ciebie propozycję oznaczę 
 
 **Będąc tutaj korzystasz z wiedzy innych, więc gorąco Cię zachęcam, abyś wpłynął na rozwój zgromadzonych tu treści.**
 
-
+---
 
 ## Materiały
 
@@ -52,14 +57,19 @@ czy przygotowania do stanowiska Junior Java Developer.
 Rolą udostępnionych tutaj materiałów jest wskazanie możliwości dalszej nauki i samodzielnego rozwoju
 w poznanych technologiach i elementach języka Java.
 
+---
+
 ### Aktualizacja
 
+- 2019-06-28 Dodano wyróżnioną pozycję z wylistowanym zakresem wymagań dotyczących Junior Java Developer. Bardzo kompleksowa lista (aż tyle nie trzeba umieć), ale jednocześnie z podliknowanymi materiałami do każdego z tematów. **Polecam jak _checklistę na ile jestem przygotownany/przygotowana_**.
 - 2019-03-15 Dodano nową sekcję `Przygotowanie do rozmowy rekrutacyjnej` z pierwszym materiałem, a więc serwisem Pramp. Za cenną propozycją [ziehlke](https://github.com/ziehlke). 
 - 2019-03-15 Dodano do `Zadania i tutoriale` nową pozycję: "_HTML RefCard_". Podstawowe elementy HTML w formie szybkiej pomocy.
 - 2019-01-31 Dodano do [Książki](#Ksiazki) nową pozycję: "_Myśl jak programista. Techniki kreatywnego rozwiązywania problemów_". Lektura polecana absolutnie dla wszystkich, którzy chcą zrozumieć, co jest w tym zawodzie najważniejsze: nie język, nie framework, nie środowisko i narzędzia, a właściwy sposób myślenia (możliwy do wyuczenia krok po kroku).
 - 2018-12-14 Dodano do [Książki](#Ksiazki) nową pozycje: "_Programowanie w Javie. Solidna wiedza w praktyce. Wydanie XI_". Szczególnie polecam tą książkę, jako źródło całościowej wiedzy o języku Java. Uczyłem się od tych autorów programowania w C++ 20 lat temu, z książki "Arkana Programowania C++". Nigdy w swoim całym życiu zawodowym nie spotkałem już innej pozycji tak kompleksowej jak ta. Gorąco polecam!
 - 2018-12-14 Dodano do [Książki](#Ksiązki) nową pozycje: "_Java. Przewodnik dla początkujących. Wydanie VII_", od [AdrianGalus](https://github.com/AdrianGalus). Tym samym pojawiła się pierwsza aktywność naszej mikro społeczności :)
 - 2018-12-07 Dodano do #ksiazki nowe pozycje związane ze Spring Framework oraz klasyczną Javą.
+
+---
 
 ### Kategorie materiałów
 
@@ -79,6 +89,15 @@ na nim. Potem kolejne, kolejne. Dobrze oddaje to poniższa grafika:
 ![Good programmer](media/good_programmer.jpg)
 (Źródło: [tutaj](https://2.bp.blogspot.com/-rXTKoaxaE0k/WjT1QXzXnyI/AAAAAAAAJtY/9joXTM06QigGYFBh0AJjWWf_YYqzmL8mgCLcBGAs/s400/Good%2Bprogrammer.jpg))
 
+---
+
+### Wytyczne co powinien umieć "Junior Java Developer"
+
+Na stronie Java Code Geeks kilka miesięcy temu pojawiła się bardzo kompleksowa lista tego, co powinna nauczyć się osoba chcąca zostać Junior Java Developer. Lista jest szeroka i część wymagań może być ponad rozpoczęcie kariery. Jednak olbrzymią wartością tej listy jest to, że każde z wymagań posiada również linki do materiałów, z których można się ich nauczyć bądź zweryfikować już posiadaną wiedzę. Gorąco polecam!
+
+[Co Junior Java Developer znać umieć powinien](https://www.javacodegeeks.com/2019/04/best-way-to-learn-java-programming-online.html)
+
+---
 
 ### Książki
 
@@ -103,10 +122,11 @@ będą przydatne i wartościowe:
 |Chcesz zrozumieć współczesne programowanie i osiągnąć w nim mistrzostwo?|[_Software Craftsman. Profesjonalizm, czysty kod i techniczna perfekcja_](https://helion.pl/view/10695k/prorze.htm#format/d), Sandro Manusco|[honestit](https://github.com/honestit)|
 |Zachłysnąłeś/aś się programowaniem i szukasz inspirujących historii?|[_Piękny kod. Tajemnice mistrzów programowania_](https://helion.pl/view/10695k/szpppv.htm#format/d), Andy Oram, Greg Wilson|[honestit](https://github.com/honestit)|
 
+---
+
 ### Zadania i tutoriale
 
 Kolejna lista to strony zawierająca zbiory zadań i tutoriale pod konkretne obszary techniczne
-
 
 #### Zbiory zadań
 
@@ -214,6 +234,8 @@ poniższą listę:
 |- Wzorce GoF|[Design Patterns](https://dzone.com/refcardz/design-patterns?chapter=1)|[honestit](https://github.com/honestit)|
 |- Wzorce architektoniczen|[Modular Patterns](https://dzone.com/refcardz/patterns-modular-architecture?chapter=1)|[honestit](https://github.com/honestit)|
 |- Wzorce integracyjne|[SOA Patterns](https://dzone.com/refcardz/soa-patterns?chapter=1)|[honestit](https://github.com/honestit)|
+
+---
 
 ## Podsumowanie
 
