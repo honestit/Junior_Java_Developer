@@ -61,7 +61,7 @@ w poznanych technologiach i elementach języka Java.
 
 ### Aktualizacja
 
-- 2019-06-28 Dodano wyróżnioną pozycję z wylistowanym zakresem wymagań dotyczących Junior Java Developer. Bardzo kompleksowa lista (aż tyle nie trzeba umieć), ale jednocześnie z podliknowanymi materiałami do każdego z tematów. **Polecam jako _checklistę na ile jestem przygotownany/przygotowana_**.
+- 2019-06-28 Dodano wyróżnioną pozycję z wylistowanym zakresem wymagań dotyczących Junior Java Developer. Bardzo kompleksowa lista (aż tyle nie trzeba umieć), ale jednocześnie z podliknowanymi materiałami do każdego z tematów. **Polecam jako _checklistę na ile jestem przygotowany/przygotowana_**.
 - 2019-03-15 Dodano nową sekcję `Przygotowanie do rozmowy rekrutacyjnej` z pierwszym materiałem, a więc serwisem Pramp. Za cenną propozycją [ziehlke](https://github.com/ziehlke). 
 - 2019-03-15 Dodano do `Zadania i tutoriale` nową pozycję: "_HTML RefCard_". Podstawowe elementy HTML w formie szybkiej pomocy.
 - 2019-01-31 Dodano do [Książki](#Ksiazki) nową pozycję: "_Myśl jak programista. Techniki kreatywnego rozwiązywania problemów_". Lektura polecana absolutnie dla wszystkich, którzy chcą zrozumieć, co jest w tym zawodzie najważniejsze: nie język, nie framework, nie środowisko i narzędzia, a właściwy sposób myślenia (możliwy do wyuczenia krok po kroku).
