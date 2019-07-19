@@ -61,6 +61,7 @@ w poznanych technologiach i elementach języka Java.
 
 ### Aktualizacja
 
+- 2019-07-19 Dodano wyróznioną pozycję dotyczącą zasad SOLID. Bardzo często pojawiają się one w trakcie naszych rozmów IT Interview, czy z mojej inicjatywy czy z Waszej. Warto zapoznać się ich praktyczną realizacją na wybranych przykładach czystej Javy. **Polecam, aby skoczyć wyżej w zasadach tworzenia oprogramowania o wysokiej jakości**.
 - 2019-06-28 Dodano wyróżnioną pozycję z wylistowanym zakresem wymagań dotyczących Junior Java Developer. Bardzo kompleksowa lista (aż tyle nie trzeba umieć), ale jednocześnie z podliknowanymi materiałami do każdego z tematów. **Polecam jako _checklistę na ile jestem przygotowany/przygotowana_**.
 - 2019-03-15 Dodano nową sekcję `Przygotowanie do rozmowy rekrutacyjnej` z pierwszym materiałem, a więc serwisem Pramp. Za cenną propozycją [ziehlke](https://github.com/ziehlke). 
 - 2019-03-15 Dodano do `Zadania i tutoriale` nową pozycję: "_HTML RefCard_". Podstawowe elementy HTML w formie szybkiej pomocy.
@@ -96,6 +97,14 @@ na nim. Potem kolejne, kolejne. Dobrze oddaje to poniższa grafika:
 Na stronie Java Code Geeks kilka miesięcy temu pojawiła się bardzo kompleksowa lista tego, co powinna nauczyć się osoba chcąca zostać Junior Java Developer. Lista jest szeroka i część wymagań może być ponad rozpoczęcie kariery. Jednak olbrzymią wartością tej listy jest to, że każde z wymagań posiada również linki do materiałów, z których można się ich nauczyć bądź zweryfikować już posiadaną wiedzę. Gorąco polecam!
 
 [Co Junior Java Developer umieć powinien](https://www.javacodegeeks.com/2019/04/best-way-to-learn-java-programming-online.html)
+
+---
+
+### Zasady SOLID
+
+Zrozumienie dobrych praktyk programistycznych i umiejętność ich samodzielnej obrony, zaprezentowania na przykładach (swoich i cudzych) jest kluczem do tego, aby wyróżnić się na rozmowie rekrutacyjnej. Również jest bramą do Waszego samorozwoju. Jeżeli zastanowicie się nad tym jak wygląda dzisiaj programowanie, to niemal każdy problem został już rozwiązany i można go znaleźć przeważnie na StackOverflow. Zatem wyzwaniem, które dzisiaj rzuca programowanie nie jest napisanie działającego fragmentu kodu, a pisanie kodu w taki sposób, aby idealnie łączył się z innymi fragmentami. Prawdziwym wyzwaniem jest więc projektowanie, a nie programowanie. Zasady SOLID otwierają Wam drogę i pozwalają wystartować z dobrej pozycji. Jedno z najlepszych (o ile nie najlepsze) opracowanie poniżej:
+
+[Zasady SOLID](https://blog.bitsrc.io/solid-principles-every-developer-should-know-b3bfa96bb688)
 
 ---
 
