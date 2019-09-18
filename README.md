@@ -3,6 +3,13 @@ Zbiór przydatnych materiałów dla osób gotowych do rozpoczęcia swojej przygo
 
 ---
 
+## Prośba 
+
+Jeżeli znalazłeś się tutaj pierwszy raz, albo zaglądasz już kolejny, to daj gwiazdkę temu repozytorium (opcja `Star` w prawym, górnym rogu).
+Z góry bardzo dziękuję :)
+
+---
+
 ## Wstęp
 
 Przed ropoczęciem korzystania z udostępnionych tutaj materiałów zapoznaj się z kilkoma podstawowymi informacjami.
