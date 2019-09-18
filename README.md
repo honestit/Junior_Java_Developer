@@ -68,6 +68,7 @@ w poznanych technologiach i elementach języka Java.
 
 ### Aktualizacja
 
+- 2019-09-19 **WYRÓŻNIONE** W trakcie jednej z rozmów rekrutacyjnych Marcin [wuher44](https://github.com/wuher44) opowiedział o portalu [hyperskill.org](https://hyperskill.org/knowledge-map/73?v=table). _Miejsce_ to oceniam jako genialne. Już wskazanie kto jest autorem tych materiałów wiele mówi: JetBrains, a więc wydawcy IntelliJ. Nie wiem jakim cudem dopiero teraz wpadło to w moje ręcę :) Od razu dziele się tym z całą tutejszą grupą i wszystkimi nadchodzącymi.
 - 2019-07-19 Dodano wyróznioną pozycję dotyczącą zasad SOLID. Bardzo często pojawiają się one w trakcie naszych rozmów IT Interview, czy z mojej inicjatywy czy z Waszej. Warto zapoznać się ich praktyczną realizacją na wybranych przykładach czystej Javy. **Polecam, aby skoczyć wyżej w zasadach tworzenia oprogramowania o wysokiej jakości**.
 - 2019-06-28 Dodano wyróżnioną pozycję z wylistowanym zakresem wymagań dotyczących Junior Java Developer. Bardzo kompleksowa lista (aż tyle nie trzeba umieć), ale jednocześnie z podliknowanymi materiałami do każdego z tematów. **Polecam jako _checklistę na ile jestem przygotowany/przygotowana_**.
 - 2019-03-15 Dodano nową sekcję `Przygotowanie do rozmowy rekrutacyjnej` z pierwszym materiałem, a więc serwisem Pramp. Za cenną propozycją [ziehlke](https://github.com/ziehlke). 
@@ -122,8 +123,8 @@ będą przydatne i wartościowe:
 
 |Pytanie|Materiał|Autor propozycji|
 |:------|:-------|:--------------:|
-|**Wyróżnione** Jeżeli zgadzasz się ze mną, że nie istnieją predyspozycje do programowania, a umiejętności, które masz dzisiaj, jutro mogą być na zupełnie innym, wyższym poziomie, to ta książka jest dla Ciebie. Jeżeli się nie zgadzasz, to ta książka też jest dla Ciebie|[_Myśl jak programista. Techniki kreatywnego rozwiązywania problemów_](https://helion.pl/view/10695k/myprog.htm#format/e), V. Anton Spraul|[honestit](https://github.com/honestit)|
-|**Wyróżnione** Całościowy, kompleksowy przegląd języka Java na najwyższym poziomie|[_Programowanie w Javie. Solidna wiedza w praktyce. Wydanie XI_](https://helion.pl/view/10695k/prjaso.htm#format/d)|[honestit](https://github.com/honestit)|
+|**Wyróżnione:** Jeżeli zgadzasz się ze mną, że nie istnieją predyspozycje do programowania, a umiejętności, które masz dzisiaj, jutro mogą być na zupełnie innym, wyższym poziomie, to ta książka jest dla Ciebie. Jeżeli się nie zgadzasz, to ta książka też jest dla Ciebie|[_Myśl jak programista. Techniki kreatywnego rozwiązywania problemów_](https://helion.pl/view/10695k/myprog.htm#format/e), V. Anton Spraul|[honestit](https://github.com/honestit)|
+|**Wyróżnione:** Całościowy, kompleksowy przegląd języka Java na najwyższym poziomie|[_Programowanie w Javie. Solidna wiedza w praktyce. Wydanie XI_](https://helion.pl/view/10695k/prjaso.htm#format/d)|[honestit](https://github.com/honestit)|
 |Czy chciałbyś raz jeszcze w lekki sposób dowiedzieć się o języku Java?|[_Java. Przewodnik dla początkujących_](https://helion.pl/view/10695k/javpp7.htm#format/d), Herbert Schildt|[AdrianGalus](https://github.com/AdrianGalus)|
 |Czy potrzebujesz jeszcze raz zrozumieć pewne podstawowe zagadnienia z języka Java?|[_JAVA. Programowanie praktyczne od podstaw_](https://ksiegarnia.pwn.pl/JAVA.-Programowanie-praktyczne-od-podstaw,216634685,p.html), Krzysztof Barteczko|[honestit](https://github.com/honestit)|
 |Czy potrzebujesz zrozumieć zagadnienia zaawansowane język Java?|[_JAVA. Uniwersalne techniki programowania_](https://ksiegarnia.pwn.pl/Java.-Uniwersalne-techniki-programowania,114622614,p.html), Krzysztof Barteczko|[honestit](https://github.com/honestit)|
@@ -148,6 +149,7 @@ Kolejna lista to strony zawierająca zbiory zadań i tutoriale pod konkretne obs
 
 |Pytanie|Materiał|Autor propozycji|
 |:------|:-------|:--------------:|
+|**Wyróżnione:** Jeżeli potrzebujesz całościowego zestawu zadań, pokrywającego WSZYSTKO co musisz wiedzieć, stworzonego w sposób niezwykle atrakcyjny i w okół budowania mini projektów - TO TUTAJ|[hyperskill.org](https://hyperskill.org/knowledge-map/73?v=table)|[wuher44](https://github.com/wuher44)|
 |Czy masz problem z układaniem podstawowych algorytmów i samodzielnym wykorzystywaniem podstaw języka?|[CodingBat](https://codingbat.com/java)|[honestit](https://github.com/honestit)|
 |Czy chcesz rozwinąć swoje umiejętności rozwiązywania zadań algorytmicznych na trudniejszych przykładach?|[SPOJ](https://pl.spoj.com/)|[honestit](https://github.com/honestit)|
 |Chcesz ćwiczyć programowanie rozwiązując zadania i mając z tego sporo frajdy?|[Hacker Rank](https://www.hackerrank.com/)|[honestit](https://github.com/honestit)|
