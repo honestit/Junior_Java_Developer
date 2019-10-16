@@ -68,6 +68,7 @@ w poznanych technologiach i elementach języka Java.
 
 ### Aktualizacja
 
+- 2019-10-16 Bardzo dobry tutorial wideo, w którym tworzona jest od podstaw aplikacja w Spring. Zaletą akurat tego tutorialu jest to, że aplikacja posiada naprawdę poprawną architekturę (warstwy serwisów, kontrolerów, obiektów transferowych - tutaj w roli obiektów XXXRequest) oraz tworzone są w niej testy jednostkowe. Polecam: [CRUD Application with Spring](https://www.youtube.com/watch?v=VzZV25YsSpk)
 - 2019-09-19 **WYRÓŻNIONE** W trakcie jednej z rozmów rekrutacyjnych Marcin [wuher44](https://github.com/wuher44) opowiedział o portalu [hyperskill.org](https://hyperskill.org/knowledge-map/73?v=table). _Miejsce_ to oceniam jako genialne. Już wskazanie kto jest autorem tych materiałów wiele mówi: JetBrains, a więc wydawcy IntelliJ. Nie wiem jakim cudem dopiero teraz wpadło to w moje ręcę :) Od razu dziele się tym z całą tutejszą grupą i wszystkimi nadchodzącymi.
 - 2019-07-19 Dodano wyróznioną pozycję dotyczącą zasad SOLID. Bardzo często pojawiają się one w trakcie naszych rozmów IT Interview, czy z mojej inicjatywy czy z Waszej. Warto zapoznać się ich praktyczną realizacją na wybranych przykładach czystej Javy. **Polecam, aby skoczyć wyżej w zasadach tworzenia oprogramowania o wysokiej jakości**.
 - 2019-06-28 Dodano wyróżnioną pozycję z wylistowanym zakresem wymagań dotyczących Junior Java Developer. Bardzo kompleksowa lista (aż tyle nie trzeba umieć), ale jednocześnie z podliknowanymi materiałami do każdego z tematów. **Polecam jako _checklistę na ile jestem przygotowany/przygotowana_**.
@@ -210,6 +211,7 @@ najbardziej atrakcyjne, najciekawsze i w ten sposób buduj swój potencjał i po
 
 |Pytanie|Materiał|Autor propozycji|
 |:------|:-------|:--------------:|
+|Tutorial widoe, w którym możesz zobaczyć jak stworzyć pełną aplikację wykorzystującą najważniejsze modułu/projekty Spring Framework, a co najważniejsze zrealizowaną w prawidłowej architekturze i z uwzględnieniem testów jednostkowych|[CRUD Application with Spring](https://www.youtube.com/watch?v=VzZV25YsSpk)|[honestit](https://github.com/honestit)
 |Polubiłeś/aś `Java Servlets` i aplikacje webowe, chcesz poznać wszystko w całości?|[Java Servlets 4.0 Specification](https://jcp.org/en/jsr/detail?id=369)|[honestit](https://github.com/honestit)|
 |Znasz już Servlety i chcesz lepiej poznać Spring'a?|[Spring Project](https://spring.io/guides)|[honestit](https://github.com/honestit)|
 |Spring jest świetny, ale oficjalna dokumentacja trochę Cię przerażą?|[Baeldung](https://www.baeldung.com/start-here)|[honestit](https://github.com/honestit)|
