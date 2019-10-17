@@ -68,6 +68,7 @@ w poznanych technologiach i elementach języka Java.
 
 ### Aktualizacja
 
+- 2019-10-17 Dodaje kalkulator ze StackOverflow, który pozwala _wycenić się_ na rynku [StackOverflow Salary Calculator](https://stackoverflow.com/jobs/salary)
 - 2019-10-16 Bardzo dobry tutorial wideo, w którym tworzona jest od podstaw aplikacja w Spring. Zaletą akurat tego tutorialu jest to, że aplikacja posiada naprawdę poprawną architekturę (warstwy serwisów, kontrolerów, obiektów transferowych - tutaj w roli obiektów XXXRequest) oraz tworzone są w niej testy jednostkowe. Polecam: [CRUD Application with Spring](https://www.youtube.com/watch?v=VzZV25YsSpk)
 - 2019-09-19 **WYRÓŻNIONE** W trakcie jednej z rozmów rekrutacyjnych Marcin [wuher44](https://github.com/wuher44) opowiedział o portalu [hyperskill.org](https://hyperskill.org/knowledge-map/73?v=table). _Miejsce_ to oceniam jako genialne. Już wskazanie kto jest autorem tych materiałów wiele mówi: JetBrains, a więc wydawcy IntelliJ. Nie wiem jakim cudem dopiero teraz wpadło to w moje ręcę :) Od razu dziele się tym z całą tutejszą grupą i wszystkimi nadchodzącymi.
 - 2019-07-19 Dodano wyróznioną pozycję dotyczącą zasad SOLID. Bardzo często pojawiają się one w trakcie naszych rozmów IT Interview, czy z mojej inicjatywy czy z Waszej. Warto zapoznać się ich praktyczną realizacją na wybranych przykładach czystej Javy. **Polecam, aby skoczyć wyżej w zasadach tworzenia oprogramowania o wysokiej jakości**.
@@ -98,6 +99,14 @@ na nim. Potem kolejne, kolejne. Dobrze oddaje to poniższa grafika:
 
 ![Good programmer](media/good_programmer.jpg)
 (Źródło: [tutaj](https://2.bp.blogspot.com/-rXTKoaxaE0k/WjT1QXzXnyI/AAAAAAAAJtY/9joXTM06QigGYFBh0AJjWWf_YYqzmL8mgCLcBGAs/s400/Good%2Bprogrammer.jpg))
+
+---
+
+### Kalkulator wynagrodzenia
+
+Zajrzyj tutaj i wyceń siebie: [StackOvertflow Salary Calculator](https://stackoverflow.com/jobs/salary)
+
+Dla lokalizacji w Polsce, przy braku wykształcenia technicznego, znajomości `Java`, `Spring` i `MySQL`/`Postgres` oraz braku doświadczenia komercyjnego kalkulator podpowie nam średnią stawkę `4.600,- zł`
 
 ---
 
