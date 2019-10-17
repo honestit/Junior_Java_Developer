@@ -106,7 +106,7 @@ na nim. Potem kolejne, kolejne. Dobrze oddaje to poniższa grafika:
 
 Zajrzyj tutaj i wyceń siebie: [StackOvertflow Salary Calculator](https://stackoverflow.com/jobs/salary)
 
-Dla lokalizacji w Polsce, przy braku wykształcenia technicznego, znajomości `Java`, `Spring` i `MySQL`/`Postgres` oraz braku doświadczenia komercyjnego kalkulator podpowie nam średnią stawkę `4.600,- zł`
+Dla lokalizacji w Polsce, przy braku wykształcenia technicznego, ze znajomością `Java`, `Spring` i `MySQL`/`Postgres` oraz braku doświadczenia komercyjnego kalkulator podpowie nam średnią stawkę `4.600,- zł`
 
 ---
 
