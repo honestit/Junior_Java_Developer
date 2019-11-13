@@ -68,6 +68,7 @@ w poznanych technologiach i elementach języka Java.
 
 ### Aktualizacja
 
+- 2019-11-13 Częstym tematem rekrutacyjnym są transakcje, a w szczególności ich obsługa w Spring. Pomijając nawet samą rekrutację, to jest to temat istotny dla każdego programisty backendu. Polecam bardzo dobry artykuł na ten temat: [Transactions and Transactions in Spring](https://www.marcobehler.com/guides/spring-transaction-management-unconventional-guide)
 - 2019-10-17 Dodaje kalkulator ze StackOverflow, który pozwala _wycenić się_ na rynku [StackOverflow Salary Calculator](https://stackoverflow.com/jobs/salary)
 - 2019-10-16 Bardzo dobry tutorial wideo, w którym tworzona jest od podstaw aplikacja w Spring. Zaletą akurat tego tutorialu jest to, że aplikacja posiada naprawdę poprawną architekturę (warstwy serwisów, kontrolerów, obiektów transferowych - tutaj w roli obiektów XXXRequest) oraz tworzone są w niej testy jednostkowe. Polecam: [CRUD Application with Spring](https://www.youtube.com/watch?v=VzZV25YsSpk)
 - 2019-09-19 **WYRÓŻNIONE** W trakcie jednej z rozmów rekrutacyjnych Marcin [wuher44](https://github.com/wuher44) opowiedział o portalu [hyperskill.org](https://hyperskill.org/knowledge-map/73?v=table). _Miejsce_ to oceniam jako genialne. Już wskazanie kto jest autorem tych materiałów wiele mówi: JetBrains, a więc wydawcy IntelliJ. Nie wiem jakim cudem dopiero teraz wpadło to w moje ręcę :) Od razu dziele się tym z całą tutejszą grupą i wszystkimi nadchodzącymi.
@@ -216,7 +217,7 @@ najbardziej atrakcyjne, najciekawsze i w ten sposób buduj swój potencjał i po
 |`JPA` jest interesujące ale bardziej jesteś ciekaw/a możliwości Hibernate'a?|[Vlad Mihalcea Blog](https://vladmihalcea.com/)|[honestit](https://github.com/honestit)|
 |Czujesz, że SQL jest Twoim żywiołem albo że będzie Ci potrzebny i potrzebujesz lepiej wszystko zrozumieć?|[SQL ZOO](https://sqlzoo.net/)|[honestit](https://github.com/honestit)|
 
-##### Servlety i Spring MVC
+##### Servlety i Spring
 
 |Pytanie|Materiał|Autor propozycji|
 |:------|:-------|:--------------:|
@@ -224,6 +225,7 @@ najbardziej atrakcyjne, najciekawsze i w ten sposób buduj swój potencjał i po
 |Polubiłeś/aś `Java Servlets` i aplikacje webowe, chcesz poznać wszystko w całości?|[Java Servlets 4.0 Specification](https://jcp.org/en/jsr/detail?id=369)|[honestit](https://github.com/honestit)|
 |Znasz już Servlety i chcesz lepiej poznać Spring'a?|[Spring Project](https://spring.io/guides)|[honestit](https://github.com/honestit)|
 |Spring jest świetny, ale oficjalna dokumentacja trochę Cię przerażą?|[Baeldung](https://www.baeldung.com/start-here)|[honestit](https://github.com/honestit)|
+|Obsługa transakcji w Spring|[Transactions and Transactions in Spring](https://www.marcobehler.com/guides/spring-transaction-management-unconventional-guide)|[honestit](https://github.com/honestit)|
 
 ##### Przygotowanie do rozmowy kwalifikacyjnej
 
