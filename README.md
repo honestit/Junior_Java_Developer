@@ -68,6 +68,8 @@ w poznanych technologiach i elementach języka Java.
 
 ### Aktualizacja
 
+**UWAGA!** Repozytorium w 2020 roku nie doczekało się jeszcze żadnej aktualizacji ale niedługo będziemy to nadrabiać :) Pojawią się namiary na nowe materiały (w czerwcu) ale mam nadzieję, że uda się też przejść z formatu repozytorium do formatu aplikacji/serwisu udostępniającego takie materiały.
+
 - 2019-11-13 Częstym tematem rekrutacyjnym są transakcje, a w szczególności ich obsługa w Spring. Pomijając nawet samą rekrutację, to jest to temat istotny dla każdego programisty backendu. Polecam bardzo dobry artykuł na ten temat: [Transactions and Transactions in Spring](https://www.marcobehler.com/guides/spring-transaction-management-unconventional-guide)
 - 2019-10-17 Dodaje kalkulator ze StackOverflow, który pozwala _wycenić się_ na rynku [StackOverflow Salary Calculator](https://stackoverflow.com/jobs/salary)
 - 2019-10-16 Bardzo dobry tutorial wideo, w którym tworzona jest od podstaw aplikacja w Spring. Zaletą akurat tego tutorialu jest to, że aplikacja posiada naprawdę poprawną architekturę (warstwy serwisów, kontrolerów, obiektów transferowych - tutaj w roli obiektów XXXRequest) oraz tworzone są w niej testy jednostkowe. Polecam: [CRUD Application with Spring](https://www.youtube.com/watch?v=VzZV25YsSpk)
