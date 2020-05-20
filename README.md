@@ -16,7 +16,7 @@ Razem z żoną przygotowaliśmy kurs z nauki podstaw programowania i podstaw ję
 
 Poniżej znajduje się link do kursu z wbitą promocją - obecna pozwala na zakup kursu z 30% zniżką. Sam kurs jest na Udemy w najniższej możliwej cenia. To 50 godzin profesjonalnego materiału w cenie 4 numerów CD-Action (po 10.99 PLN każdy). Chciałem aby kurs był powszechnie i łatwo dostępny, stąd taka cena :)
 
-[!img/Programowanie-w-javie-solidne-fundamenty.jpg]
+![Solidne-fundamenty](media/Programowanie-w-javie-solidne-fundamenty.jpg)
 
 **Polecam :)**
 
