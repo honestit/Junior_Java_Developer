@@ -10,6 +10,18 @@ Z góry bardzo dziękuję :)
 
 ---
 
+## Kurs
+
+Razem z żoną przygotowaliśmy kurs z nauki podstaw programowania i podstaw języka Java. W kurs wrzuciłem wszystko czego się nauczyłem w ostatnich latach jako trener programowania. Jeżeli sam chciałbyś skorzystać albo masz znajomym, którzy chcą rozpocząć przygodę z programowaniem, to poleń im to proszę. Wyświadczysz i mi i im ogromną przysługę :)
+
+Poniżej znajduje się link do kursu z wbitą promocją - obecna pozwala na zakup kursu z 30% zniżką. Sam kurs jest na Udemy w najniższej możliwej cenia. To 50 godzin profesjonalnego materiału w cenie 4 numerów CD-Action (po 10.99 PLN każdy). Chciałem aby kurs był powszechnie i łatwo dostępny, stąd taka cena :)
+
+[!img/Programowanie-w-javie-solidne-fundamenty.jpg]
+
+**Polecam :)**
+
+---
+
 ## Wstęp
 
 Przed ropoczęciem korzystania z udostępnionych tutaj materiałów zapoznaj się z kilkoma podstawowymi informacjami.
