@@ -18,7 +18,7 @@ Poniżej znajduje się link do kursu z wbitą promocją - obecna pozwala na zaku
 
 ![Solidne-fundamenty](media/Programowanie-w-javie-solidne-fundamenty.jpg)
 
-[Promocja: kurs w cenie 4 x CD-Action = 49 zł](https://www.udemy.com/course/programowanie-w-javie-solidne-fundamenty/?couponCode=PROMOCJA-URODZINOWA)
+[Promocja: kurs w cenie 4 x CD-Action = 49 zł](https://www.udemy.com/course/programowanie-w-javie-solidne-fundamenty/?couponCode=9BDD279891B9C7B313E5)
 
 **Polecam :)**
 
