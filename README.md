@@ -84,6 +84,7 @@ w poznanych technologiach i elementach języka Java.
 
 **UWAGA!** Repozytorium w 2020 roku nie doczekało się jeszcze żadnej aktualizacji ale niedługo będziemy to nadrabiać :) Pojawią się namiary na nowe materiały (w czerwcu) ale mam nadzieję, że uda się też przejść z formatu repozytorium do formatu aplikacji/serwisu udostępniającego takie materiały.
 
+- 2020-06-08 Gorąco polecam bardzo dobrze repozytorium z wieloma opracowaniami wzorców projektowych, nie tylko podstawowych ale również większości wzórców klasy enterprise czy wzorców integracyjnych: [Iluwatar: Java Design Patterns](https://github.com/iluwatar/java-design-patterns)
 - 2019-11-13 Częstym tematem rekrutacyjnym są transakcje, a w szczególności ich obsługa w Spring. Pomijając nawet samą rekrutację, to jest to temat istotny dla każdego programisty backendu. Polecam bardzo dobry artykuł na ten temat: [Transactions and Transactions in Spring](https://www.marcobehler.com/guides/spring-transaction-management-unconventional-guide)
 - 2019-10-17 Dodaje kalkulator ze StackOverflow, który pozwala _wycenić się_ na rynku [StackOverflow Salary Calculator](https://stackoverflow.com/jobs/salary)
 - 2019-10-16 Bardzo dobry tutorial wideo, w którym tworzona jest od podstaw aplikacja w Spring. Zaletą akurat tego tutorialu jest to, że aplikacja posiada naprawdę poprawną architekturę (warstwy serwisów, kontrolerów, obiektów transferowych - tutaj w roli obiektów XXXRequest) oraz tworzone są w niej testy jednostkowe. Polecam: [CRUD Application with Spring](https://www.youtube.com/watch?v=VzZV25YsSpk)
@@ -206,6 +207,7 @@ najbardziej atrakcyjne, najciekawsze i w ten sposób buduj swój potencjał i po
 
 |Pytanie|Materiał|Autor propozycji|
 |:------|:-------|:--------------:|
+|Świetne opracowanie bardzo wielu wzorców projektowych, aż ciężko pomyśleć o jakich ponad dostępną tutaj listę. Co więcej - każdy wzorzec jest oprogramowany, a przykłady są w Javie. Gorąco polecam|[Iluwatar: Java Design Patterns](https://github.com/iluwatar/java-design-patterns)|[honestit](https://github.com/honestit)|
 |Potrafisz programować, ale chcesz lepiej poznać zasady projektowania i rozpocząć przygodę ze wzorcami|[JournalDev Design Patterns](https://www.journaldev.com/1827/java-design-patterns-example-tutorial)|[honestit](https://github.com/honestit)|
 |Podstawowa grupa wzorców to dla Ciebie już za mało i chcesz wejść naprawdę głęboko i szeroko w temat?|[Java Design Pattersn](https://github.com/iluwatar/java-design-patterns)|[honestit](https://github.com/honestit)|
 |Korzystasz z framework'ów typu Hibernate lub Spring/JEE i chce je zrozumieć?| | |
